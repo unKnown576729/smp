@@ -1,0 +1,161 @@
+[02:49:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1022-azure (amd64)
+[02:49:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[02:49:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:49:35] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ConditionalEvents.jar'...
+[02:49:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltraSetHome-1.7.9.jar'...
+[02:49:36] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/realisticsurvival-1.2.8-RELEASE.jar'...
+[02:49:36] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/ClickTpa-v1.7.4.jar'...
+[02:49:39] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ClickTpa-v1.7.4.jar' in 3157ms.
+[02:49:39] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/BetterStructures.jar'...
+[02:49:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ConditionalEvents.jar' in 5134ms.
+[02:49:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[02:49:42] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltraSetHome-1.7.9.jar' in 6550ms.
+[02:49:42] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/realisticsurvival-1.2.8-RELEASE.jar' in 6535ms.
+[02:49:42] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BetterStructures.jar' in 3376ms.
+[02:49:44] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 4308ms.
+[02:49:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[02:49:45] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - BetterStructures (1.7.1), ClickTpa (1.7.4), ConditionalEvents (4.57.3), Essentials (2.21.0-dev+111-b54c8c1), LuckPerms (5.4.141), RealisticSurvival (1.2.8-RELEASE), SkinsRestorer (15.4.2), UltraSetHome (1.7.9)
+[02:49:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:50:03] [ServerMain/INFO]: Loaded 1290 recipes
+[02:50:03] [ServerMain/INFO]: Loaded 1399 advancements
+[02:50:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:50:04] [Server thread/INFO]: Loading properties
+[02:50:04] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:50:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:50:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:50:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:50:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:50:08] [Server thread/INFO]: Default game type: SURVIVAL
+[02:50:08] [Server thread/INFO]: Generating keypair
+[02:50:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:50:08] [Server thread/INFO]: Using epoll channel type
+[02:50:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:50:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:50:08] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/BetterStructures.jar' in 'plugins/.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WorldEdit]. Please download and install these plugins to run 'BetterStructures'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:50:09] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:50:26] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.4 does not specify an api-version.
+[02:50:26] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
+[02:50:29] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[02:50:29] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.2
+[02:50:29] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.4
+[02:50:29] [Server thread/INFO]: [RealisticSurvival] Loading server plugin RealisticSurvival v1.2.8-RELEASE
+[02:50:29] [Server thread/ERROR]: NMS Util could not find a valid implementation for this server version.
+[02:50:29] [Server thread/ERROR]: [RealisticSurvival] Error initializing plugin 'realisticsurvival-1.2.8-RELEASE.jar' in folder 'plugins/.paper-remapped' (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "me.val_mobile.utils.InternalsProvider.registerEntities()" because "me.val_mobile.utils.Utils.internals" is null
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.utils.Utils.registerEntities(Utils.java:1189) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.rsv.RSVPlugin.onLoad(RSVPlugin.java:161) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:50:29] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+111-b54c8c1
+[02:50:29] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.57.3
+[02:50:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:50:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[02:50:29] [Server thread/INFO]:         __    
+[02:50:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
+[02:50:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:50:30] [Server thread/INFO]: 
+[02:50:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:50:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:50:31] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:50:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:50:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2145ms)
+[02:50:31] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.2
+[02:50:34] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:50:35] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[02:50:36] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:50:36] [Server thread/INFO]: [RealisticSurvival] Enabling RealisticSurvival v1.2.8-RELEASE
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.2
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 210a436
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:50:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:50:37] [Server thread/INFO]: [RealisticSurvival] §6[Realistic Survival] §fInitializing §eIceandFire §fmodule
+[02:50:37] [Server thread/ERROR]: Error occurred while enabling RealisticSurvival v1.2.8-RELEASE (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "me.val_mobile.utils.InternalsProvider.getTag(String)" because "me.val_mobile.utils.Utils.internals" is null
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.utils.Utils.getTag(Utils.java:713) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.utils.Ingredient.parseIngredientType(Ingredient.java:177) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.utils.Ingredient.<init>(Ingredient.java:55) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.utils.RSVItem.<init>(RSVItem.java:198) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.data.ItemManager.initialize(ItemManager.java:59) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.data.ItemManager.<init>(ItemManager.java:38) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.data.ModuleItems.<init>(ModuleItems.java:22) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.spartanweaponry.SwModule.initialize(SwModule.java:47) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at realisticsurvival-1.2.8-RELEASE.jar/me.val_mobile.rsv.RSVPlugin.onEnable(RSVPlugin.java:93) ~[realisticsurvival-1.2.8-RELEASE.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:293) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:50:37] [Server thread/INFO]: [RealisticSurvival] Disabling RealisticSurvival v1.2.8-RELEASE
+[02:50:37] [Server thread/INFO]: [RealisticSurvival] §6[Realistic Survival] §fShutting down §eIceandFire §fmodule
+[02:50:37] [Server thread/INFO]: [RealisticSurvival] §6[Realistic Survival] §fShutting down §eSpartanWeaponry §fmodule
+[02:50:37] [Server thread/INFO]: Preparing level "world"
+[02:50:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:50:40] [Server thread/INFO]: Time elapsed: 2126 ms
+[02:50:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:50:41] [Server thread/INFO]: Time elapsed: 332 ms
+[02:50:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:50:41] [Server thread/INFO]: Time elapsed: 197 ms
+[02:50:41] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[02:50:43] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.4*
+[02:50:43] [Server thread/INFO]: [ClickTpa] ClickTPA has been loaded Successfully!
+[02:50:43] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+111-b54c8c1
+[02:50:44] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
+[02:50:44] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[02:50:45] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[02:50:45] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[02:50:45] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[02:50:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:50:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:50:45] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[02:50:45] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[02:50:45] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[02:50:45] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[02:50:45] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[02:50:46] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[02:50:46] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[02:50:46] [Server thread/INFO]: [Essentials] Using locale en
+[02:50:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:50:47] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:50:47] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[02:50:47] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[02:50:47] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[02:50:47] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[02:50:47] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.57.3
+[02:50:47] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.57.3
+[02:50:47] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02:50:48] [Server thread/INFO]: [spark] Starting background profiler...
+[02:50:49] [Server thread/INFO]: Done preparing level "world" (11.231s)
+[02:50:49] [Server thread/INFO]: Running delayed init tasks
+[02:50:49] [Server thread/INFO]: Done (79.672s)! For help, type "help"
+[02:50:49] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:50:49] [Server thread/INFO]: Timings Reset
+[02:50:49] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
