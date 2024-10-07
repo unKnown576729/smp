@@ -387,3 +387,5 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:01:28] [Server thread/INFO]: wintery joined the game
 [02:01:28] [Server thread/INFO]: wintery[/127.199.168.247:47123] logged in with entity id 54177 at ([world]-657.8420059948171, 93.0, -1142.5850665485432)
 [02:01:38] [Async Chat Thread - #8/INFO]: [Not Secure] <bat_m4n> se redimio
+[02:03:10] [Server thread/INFO]: wintery lost connection: Disconnected
+[02:03:10] [Server thread/INFO]: wintery left the game
