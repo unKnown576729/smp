@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.181.28.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1728262036804
+money: '0'
+last-account-name: Gohan5253
+lastlocation:
+  world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
+  world-name: world
+  x: 19.558396713843482
+  y: 79.0
+  z: -4.604074042720396
+  yaw: -87.59983825683594
+  pitch: 22.95000648498535

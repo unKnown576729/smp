@@ -108,3 +108,22 @@
 [00:36:04] [User Authenticator #2/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
 [00:36:07] [Server thread/INFO]: RobertoJMX joined the game
 [00:36:07] [Server thread/INFO]: RobertoJMX[/127.238.50.120:37879] logged in with entity id 1090 at ([world]-483.61015783556036, -54.0, -63.32697949671402)
+[00:43:38] [Server thread/INFO]: RobertoJMX has made the advancement [We Need to Go Deeper]
+[00:44:03] [Server thread/INFO]: bat_m4n issued server command: /sethome nether
+[00:47:14] [User Authenticator #3/INFO]: UUID of player Gohan5253 is bb191116-4b87-3afe-a46b-300d80d6e424
+[00:47:16] [Server thread/INFO]: Gohan5253 joined the game
+[00:47:16] [Server thread/INFO]: Gohan5253[/127.181.28.34:58407] logged in with entity id 2767 at ([world]-5.5, 80.0, 7.5)
+[00:47:27] [Server thread/INFO]: bat_m4n issued server command: /tpa gohan5253
+[00:47:31] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept bat_m4n
+[00:47:43] [Server thread/INFO]: RobertoJMX issued server command: /tpa Gohan5253
+[00:47:47] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept RobertoJMX
+[00:47:48] [luckperms-command-executor/INFO]: [LP] gohan5253 now inherits permissions from diablo in context global.
+[00:47:51] [Server thread/INFO]: bat_m4n issued server command: /tpa gohan5253
+[00:47:56] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept RobertoJMX
+[00:48:09] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
+[00:48:32] [Server thread/INFO]: Gohan5253 was slain by RobertoJMX
+[00:48:37] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
+[00:48:38] [Server thread/INFO]: bat_m4n issued server command: /tpa gohan5253
+[00:48:53] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept bat_m4n
+[00:49:06] [Server thread/INFO]: Gohan5253 has made the advancement [Acquire Hardware]
+[00:49:17] [Server thread/INFO]: Gohan5253 has made the advancement [Isn't It Iron Pick]
