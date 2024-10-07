@@ -149,3 +149,9 @@
 [21:27:03] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept bat_m4n
 [21:27:50] [Server thread/INFO]: bat_m4n issued server command: /homes
 [21:27:51] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:30:31] [Async Chat Thread - #8/INFO]: [Not Secure] <bat_m4n> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[21:31:18] [Server thread/INFO]: JoaquinAsur lost connection: Disconnected
+[21:31:18] [Server thread/INFO]: JoaquinAsur left the game
+[21:34:51] [Server thread/INFO]: RobertoJMX issued server command: /home portal
+[21:35:53] [Server thread/INFO]: julsitan issued server command: /home basedevelda
+[21:37:42] [Server thread/INFO]: RobertoJMX issued server command: /home aldea

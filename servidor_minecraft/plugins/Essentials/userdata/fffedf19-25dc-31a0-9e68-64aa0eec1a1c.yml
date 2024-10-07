@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728335289262
+  logout: 1728336678459
   login: 1728336313802
 money: '0'
 last-account-name: JoaquinAsur
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -2074.6672814061712
-  y: 68.9375
-  z: -334.0427933334436
-  yaw: -176.10888671875
-  pitch: 13.500024795532227
+  x: -2103.48980007332
+  y: 66.0
+  z: -299.30097455769396
+  yaw: -76.359619140625
+  pitch: 19.64996337890625
