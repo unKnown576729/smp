@@ -455,3 +455,5 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [03:22:44] [Server thread/INFO]: RobertoJMX joined the game
 [03:22:44] [Server thread/INFO]: RobertoJMX[/127.238.50.120:55337] logged in with entity id 79034 at ([world]1790.891974283093, 71.0, 1742.597838008418)
 [03:43:11] [Server thread/INFO]: Villager Villager['Armorer'/73136, uuid='b64b254a-4926-495e-a494-d9f2e2249afa', l='ServerLevel[world]', x=1786.30, y=71.00, z=1732.30, cpos=[111, 108], tl=192196, v=true] died, message: 'Armorer was slain by Zombie'
+[04:20:19] [Server thread/INFO]: bat_m4n fell from a high place
+[04:20:23] [Server thread/INFO]: bat_m4n issued server command: /back
