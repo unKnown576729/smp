@@ -282,3 +282,32 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [01:16:19] [Server thread/INFO]: julsitan has made the advancement [Stone Age]
 [01:17:12] [Server thread/INFO]: julsitan has made the advancement [Getting an Upgrade]
 [01:20:45] [Server thread/INFO]: julsitan issued server command: /sethome baset
+[01:22:24] [Server thread/INFO]: Gohan5253 issued server command: /tpar
+[01:22:29] [Server thread/INFO]: Gohan5253 issued server command: /tpa r
+[01:22:32] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept Gohan5253
+[01:24:43] [Server thread/INFO]: julsitan issued server command: /home baset
+[01:24:49] [Server thread/INFO]: julsitan has made the advancement [Acquire Hardware]
+[01:25:06] [Server thread/INFO]: julsitan has made the advancement [Isn't It Iron Pick]
+[01:25:53] [Server thread/INFO]: Gohan5253 has made the advancement [Cover Me with Diamonds]
+[01:27:22] [User Authenticator #6/INFO]: UUID of player wintery is 4343838b-3007-3ac6-bca3-9739fe017183
+[01:27:25] [Server thread/INFO]: wintery joined the game
+[01:27:25] [Server thread/INFO]: wintery[/127.199.168.247:48255] logged in with entity id 28773 at ([world]2.5, 85.0, -7.5)
+[01:27:54] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> bro deja de chillaaaaaaaaaaaaar
+[01:27:59] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> habla
+[01:28:01] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> hola
+[01:28:05] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> hola :)
+[01:28:11] [Async Chat Thread - #5/INFO]: [Not Secure] <wintery> ):)
+[01:28:16] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> D:
+[01:28:20] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> :p
+[01:28:22] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> >:)
+[01:28:25] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> :D
+[01:28:53] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> {:
+[01:28:59] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> =)
+[01:29:16] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> :}
+[01:29:23] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> >=}
+[01:29:29] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> :]
+[01:29:37] [Server thread/INFO]: julsitan issued server command: /home baset
+[01:29:45] [Server thread/INFO]: Gohan5253 has made the advancement [Hot Stuff]
+[01:29:52] [Server thread/INFO]: julsitan has made the advancement [Suit Up]
+[01:30:55] [Server thread/INFO]: Gohan5253 lost connection: Disconnected
+[01:30:55] [Server thread/INFO]: Gohan5253 left the game
