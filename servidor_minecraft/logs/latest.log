@@ -104,3 +104,6 @@
 [20:35:14] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 51bdb14f-01d9-405c-ba43-4d50a45befb8, mapped to Bee['Bee'/327, uuid='51bdb14f-01d9-405c-ba43-4d50a45befb8', l='ServerLevel[world]', x=-1916.96, y=68.21, z=-301.54, cpos=[-120, -19], tl=2296, v=true], can't add Bee['Bee'/346, uuid='51bdb14f-01d9-405c-ba43-4d50a45befb8', l='ServerLevel[world]', x=-1902.92, y=78.26, z=-281.21, cpos=[-119, -18], tl=1422, v=false]
 [20:35:26] [Server thread/INFO]: JoaquinAsur lost connection: Disconnected
 [20:35:26] [Server thread/INFO]: JoaquinAsur left the game
+[20:39:43] [User Authenticator #1/INFO]: UUID of player JoaquinAsur is fffedf19-25dc-31a0-9e68-64aa0eec1a1c
+[20:39:44] [Server thread/INFO]: JoaquinAsur joined the game
+[20:39:44] [Server thread/INFO]: JoaquinAsur[/127.118.122.213:52861] logged in with entity id 387 at ([world]-2066.5, 66.0, -377.5)
