@@ -434,3 +434,17 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:31:26] [Server thread/INFO]: wintery left the game
 [02:32:20] [Server thread/INFO]: RobertoJMX issued server command: /home portal
 [02:32:30] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[02:35:35] [Server thread/INFO]: RobertoJMX issued server command: /tpa t
+[02:35:39] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept RobertoJMX
+[02:35:48] [Server thread/INFO]: RobertoJMX issued server command: /tpa t
+[02:35:50] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept RobertoJMX
+[02:35:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Tomate71421> ew
+[02:36:06] [Server thread/INFO]: bat_m4n issued server command: /tpa tomat
+[02:36:13] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept bat_m4n
+[02:36:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Tomate71421> e
+[02:36:34] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[02:37:48] [Server thread/INFO]: Tomate71421 was slain by RobertoJMX
+[02:37:55] [Server thread/INFO]: Tomate71421 issued server command: /back
+[02:38:12] [Server thread/INFO]: Tomate71421 lost connection: Disconnected
+[02:38:12] [Server thread/INFO]: Tomate71421 left the game
+[02:41:25] [Server thread/INFO]: RobertoJMX issued server command: /home aldea

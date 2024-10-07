@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1728265420909
+  lastteleport: 1728268675287
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1728268692100
   login: 1728264711295
 money: '0'
 last-account-name: Tomate71421
 lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -542.4122669503067
-  y: 72.0
-  z: -262.2529974310245
-  yaw: -141.6143798828125
-  pitch: 33.90001678466797
+  x: -549.5
+  y: 69.0
+  z: -291.5
+  yaw: -86.25
+  pitch: 3.000000476837158
+logoutlocation:
+  world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
+  world-name: world
+  x: 112.38216289051196
+  y: 64.0
+  z: -732.7188544125912
+  yaw: -127.33779907226562
+  pitch: 14.550007820129395
