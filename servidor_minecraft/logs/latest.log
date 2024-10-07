@@ -123,3 +123,29 @@
 [21:08:09] [Server thread/INFO]: JoaquinAsur lost connection: Disconnected
 [21:08:09] [Server thread/INFO]: JoaquinAsur left the game
 [21:09:02] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> sex
+[21:17:44] [Server thread/INFO]: julsitan issued server command: /home basedevelda
+[21:18:29] [User Authenticator #4/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
+[21:18:32] [Server thread/INFO]: RobertoJMX joined the game
+[21:18:32] [Server thread/INFO]: RobertoJMX[/127.59.50.42:34837] logged in with entity id 10549 at ([world]1811.386819337041, 72.0, 1748.1153220847198)
+[21:19:06] [Server thread/INFO]: julsitan issued server command: /back
+[21:19:20] [Server thread/INFO]: julsitan issued server command: /home baset
+[21:20:07] [Server thread/INFO]: RobertoJMX issued server command: /tpa j
+[21:20:45] [Server thread/INFO]: julsitan issued server command: /tpaccept RobertoJMX
+[21:21:38] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[21:22:53] [Server thread/INFO]: RobertoJMX issued server command: /tpa j
+[21:23:07] [Server thread/INFO]: julsitan issued server command: /tpaccept RobertoJMX
+[21:24:00] [Server thread/INFO]: RobertoJMX issued server command: /tpa aldea
+[21:24:06] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[21:24:20] [Server thread/INFO]: bat_m4n fell from a high place
+[21:24:24] [Server thread/INFO]: bat_m4n issued server command: /back
+[21:25:02] [Server thread/INFO]: RobertoJMX issued server command: /tpa j
+[21:25:07] [Server thread/INFO]: julsitan issued server command: /tpaccept RobertoJMX
+[21:25:12] [User Authenticator #5/INFO]: UUID of player JoaquinAsur is fffedf19-25dc-31a0-9e68-64aa0eec1a1c
+[21:25:13] [Server thread/INFO]: JoaquinAsur joined the game
+[21:25:13] [Server thread/INFO]: JoaquinAsur[/127.118.122.213:33439] logged in with entity id 12205 at ([world]-2074.6672814061712, 68.9375, -334.0462245237232)
+[21:25:18] [Async Chat Thread - #6/INFO]: [Not Secure] <JoaquinAsur> aloh
+[21:25:21] [Async Chat Thread - #6/INFO]: [Not Secure] <bat_m4n> ola
+[21:26:55] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
+[21:27:03] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept bat_m4n
+[21:27:50] [Server thread/INFO]: bat_m4n issued server command: /homes
+[21:27:51] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
