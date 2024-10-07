@@ -112,3 +112,11 @@
 [20:51:39] [Server thread/INFO]: julsitan[/127.191.30.175:38671] logged in with entity id 2173 at ([world]1831.7432147017007, 120.0, 1129.062001690459)
 [20:51:46] [Async Chat Thread - #0/INFO]: [Not Secure] <JoaquinAsur> aloh
 [20:51:53] [Async Chat Thread - #0/INFO]: [Not Secure] <julsitan> hola
+[21:02:23] [Server thread/INFO]: JoaquinAsur has made the advancement [Take Aim]
+[21:05:11] [Server thread/INFO]: julsitan issued server command: /sethome basedevelda
+[21:05:34] [User Authenticator #3/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[21:05:36] [Server thread/INFO]: bat_m4n joined the game
+[21:05:36] [Server thread/INFO]: bat_m4n[/127.2.133.184:52113] logged in with entity id 5953 at ([world]1806.208602187208, 72.0, 1740.319771098124)
+[21:05:42] [Async Chat Thread - #2/INFO]: [Not Secure] <JoaquinAsur> aloh
+[21:05:46] [Async Chat Thread - #2/INFO]: [Not Secure] <bat_m4n> ola
+[21:05:54] [Server thread/INFO]: julsitan issued server command: /home baset
