@@ -1,497 +1,106 @@
-[00:08:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
-[00:08:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) for Minecraft 1.21.1
-[00:08:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:08:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[00:08:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2209ms.
-[00:08:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[00:08:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+[20:26:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[20:26:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) for Minecraft 1.21.1
+[20:26:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:26:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[20:26:15] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - ClickTpa (1.7.4), ConditionalEvents (4.57.3), Essentials (2.21.0-dev+111-b54c8c1), LuckPerms (5.4.141), SkinsRestorer (15.4.3), UltraSetHome (1.7.9)
-[00:08:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:08:13] [ServerMain/INFO]: Loaded 1290 recipes
-[00:08:13] [ServerMain/INFO]: Loaded 1399 advancements
-[00:08:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:08:14] [Server thread/INFO]: Loading properties
-[00:08:14] [Server thread/INFO]: This server is running Paper version 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[00:08:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:08:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:08:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:08:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[00:08:15] [Server thread/INFO]: Default game type: SURVIVAL
-[00:08:15] [Server thread/INFO]: Generating keypair
-[00:08:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:08:15] [Server thread/INFO]: Using epoll channel type
-[00:08:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:08:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:08:16] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:08:24] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.4 does not specify an api-version.
-[00:08:24] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
-[00:08:24] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[00:08:24] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.57.3
-[00:08:24] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+111-b54c8c1
-[00:08:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
-[00:08:24] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.4
-[00:08:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:08:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
-[00:08:24] [Server thread/INFO]:         __    
-[00:08:24] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
-[00:08:24] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[00:08:24] [Server thread/INFO]: 
-[00:08:24] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:08:24] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[00:08:25] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:08:25] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:08:25] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1256ms)
-[00:08:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
-[00:08:27] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:08:27] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[00:08:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:08:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:08:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:08:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:08:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:08:29] [Server thread/INFO]: Preparing level "world"
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:08:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:08:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:08:30] [Server thread/INFO]: Time elapsed: 1076 ms
-[00:08:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:08:31] [Server thread/INFO]: Time elapsed: 207 ms
-[00:08:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:08:31] [Server thread/INFO]: Time elapsed: 158 ms
-[00:08:31] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[00:08:32] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.57.3
-[00:08:32] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.57.3
-[00:08:32] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[00:08:32] [Server thread/INFO]: There is a new version available. (4.57.4)
-[00:08:32] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/conditionalevents
-[00:08:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+111-b54c8c1
-[00:08:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[00:08:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[00:08:33] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[00:08:33] [Server thread/INFO]: [Essentials] Using locale en
-[00:08:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[00:08:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[00:08:34] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
-[00:08:34] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[00:08:34] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[00:08:34] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[00:08:34] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.4*
-[00:08:34] [Server thread/INFO]: [ClickTpa] ClickTPA has been loaded Successfully!
-[00:08:34] [Server thread/INFO]: [spark] Starting background profiler...
-[00:08:35] [Server thread/INFO]: Done preparing level "world" (5.972s)
-[00:08:35] [Server thread/INFO]: Running delayed init tasks
-[00:08:35] [Server thread/INFO]: Done (32.192s)! For help, type "help"
-[00:08:35] [Server thread/INFO]: Timings Reset
-[00:08:35] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
-[00:08:35] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[00:08:35] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
-[00:08:35] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[00:30:43] [User Authenticator #0/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
-[00:30:45] [Server thread/INFO]: bat_m4n joined the game
-[00:30:45] [Server thread/INFO]: bat_m4n[/127.146.247.52:40763] logged in with entity id 23 at ([world]-362.12149734398884, -18.0, -60.5352113618987)
-[00:33:51] [User Authenticator #1/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
-[00:33:53] [Server thread/INFO]: RobertoJMX joined the game
-[00:33:53] [Server thread/INFO]: RobertoJMX[/127.238.50.120:38717] logged in with entity id 741 at ([world]-483.61015783556036, -54.0, -63.32697949671402)
-[00:34:15] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
-[00:34:16] [Server thread/INFO]: RobertoJMX left the game
-[00:36:04] [User Authenticator #2/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
-[00:36:07] [Server thread/INFO]: RobertoJMX joined the game
-[00:36:07] [Server thread/INFO]: RobertoJMX[/127.238.50.120:37879] logged in with entity id 1090 at ([world]-483.61015783556036, -54.0, -63.32697949671402)
-[00:43:38] [Server thread/INFO]: RobertoJMX has made the advancement [We Need to Go Deeper]
-[00:44:03] [Server thread/INFO]: bat_m4n issued server command: /sethome nether
-[00:47:14] [User Authenticator #3/INFO]: UUID of player Gohan5253 is bb191116-4b87-3afe-a46b-300d80d6e424
-[00:47:16] [Server thread/INFO]: Gohan5253 joined the game
-[00:47:16] [Server thread/INFO]: Gohan5253[/127.181.28.34:58407] logged in with entity id 2767 at ([world]-5.5, 80.0, 7.5)
-[00:47:27] [Server thread/INFO]: bat_m4n issued server command: /tpa gohan5253
-[00:47:31] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept bat_m4n
-[00:47:43] [Server thread/INFO]: RobertoJMX issued server command: /tpa Gohan5253
-[00:47:47] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept RobertoJMX
-[00:47:48] [luckperms-command-executor/INFO]: [LP] gohan5253 now inherits permissions from diablo in context global.
-[00:47:51] [Server thread/INFO]: bat_m4n issued server command: /tpa gohan5253
-[00:47:56] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept RobertoJMX
-[00:48:09] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
-[00:48:32] [Server thread/INFO]: Gohan5253 was slain by RobertoJMX
-[00:48:37] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
-[00:48:38] [Server thread/INFO]: bat_m4n issued server command: /tpa gohan5253
-[00:48:53] [Server thread/INFO]: Gohan5253 issued server command: /tpaccept bat_m4n
-[00:49:06] [Server thread/INFO]: Gohan5253 has made the advancement [Acquire Hardware]
-[00:49:17] [Server thread/INFO]: Gohan5253 has made the advancement [Isn't It Iron Pick]
-[00:51:23] [Server thread/WARN]: Birch Boat (vehicle of bat_m4n) moved wrongly! 0.32728046723093485
-[00:51:23] [Server thread/WARN]: Birch Boat (vehicle of bat_m4n) moved wrongly! 0.6085900422515635
-[00:51:24] [Server thread/WARN]: Birch Boat (vehicle of bat_m4n) moved wrongly! 0.3761200880489355
-[00:51:24] [Server thread/WARN]: Birch Boat (vehicle of bat_m4n) moved wrongly! 0.6633621509078012
-[00:51:24] [Server thread/WARN]: Birch Boat (vehicle of bat_m4n) moved wrongly! 0.8613537793067678
-[00:51:59] [Server thread/INFO]: Gohan5253 has made the advancement [Stone Age]
-[00:55:42] [Server thread/INFO]: Gohan5253 has made the advancement [Monster Hunter]
-[00:58:20] [Server thread/INFO]: Gohan5253 has made the advancement [Not Today, Thank You]
-[01:00:34] [User Authenticator #4/INFO]: UUID of player julsitan is dae5f45b-2864-33e5-b8fc-ea407a15e30a
-[01:00:38] [Server thread/INFO]: julsitan joined the game
-[01:00:38] [Server thread/INFO]: julsitan[/127.16.75.49:48367] logged in with entity id 11939 at ([world]-1.5, 84.0, 8.5)
-[01:00:45] [Server thread/INFO]: RobertoJMX issued server command: /tpa
-[01:00:53] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> recien?
-[01:00:55] [Async Chat Thread - #1/INFO]: [Not Secure] <julsitan> buenos dias
-[01:01:20] [Server thread/INFO]: RobertoJMX issued server command: /tpa B
-[01:01:22] [Server thread/INFO]: bat_m4n issued server command: /tpaccept RobertoJMX
-[01:01:54] [Server thread/INFO]: julsitan issued server command: /tpa bat_m4n
-[01:02:00] [Server thread/INFO]: julsitan issued server command: /tpa bat_m4n
-[01:02:25] [Server thread/INFO]: julsitan issued server command: /hello
-[01:02:54] [Server thread/INFO]: Gohan5253 lost connection: Disconnected
-[01:02:54] [Server thread/INFO]: Gohan5253 left the game
-[01:03:04] [Async Chat Thread - #2/INFO]: [Not Secure] <bat_m4n> ESCLAVISAR NEGROS
-[01:03:14] [User Authenticator #5/INFO]: UUID of player Gohan5253 is bb191116-4b87-3afe-a46b-300d80d6e424
-[01:03:16] [Server thread/INFO]: Gohan5253 joined the game
-[01:03:16] [Server thread/INFO]: Gohan5253[/127.181.28.34:47893] logged in with entity id 14061 at ([world]-313.6576682738528, 30.0, -153.56115205106008)
-[01:03:52] [Server thread/INFO]: Gohan5253 fell from a high place
-[01:03:58] [Server thread/INFO]: Gohan5253 issued server command: /back
-[01:05:55] [Server thread/INFO]: Gohan5253 has made the advancement [Suit Up]
-[01:08:18] [Server thread/INFO]: julsitan was shot by Skeleton
-[01:08:18] [Server thread/INFO]: Gohan5253 has made the advancement [Diamonds!]
-[01:08:35] [Server thread/INFO]: julsitan issued server command: /skins
-[01:08:41] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
-java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
-	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
-	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
-	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
-	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:08:42] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
-java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
-	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
-	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
-	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
-	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:08:45] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
-java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
-	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
-	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
-	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
-	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:08:46] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
-java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
-	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
-	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
-	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
-	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:08:46] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
-java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
-	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
-	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
-	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
-	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:08:50] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
-java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
-	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
-	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
-	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
-	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
-	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
-	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:09:12] [Server thread/INFO]: julsitan issued server command: /skin set GianTV
-[01:09:21] [Server thread/INFO]: RobertoJMX issued server command: /home portal
-[01:09:46] [Server thread/INFO]: julsitan issued server command: /skin set GianTv
-[01:10:19] [Server thread/INFO]: julsitan issued server command: /skin set WillyRex
-[01:10:33] [Server thread/INFO]: RobertoJMX issued server command: /tpa b
-[01:10:35] [Server thread/INFO]: bat_m4n issued server command: /tpaccept RobertoJMX
-[01:10:45] [Server thread/INFO]: julsitan issued server command: /skin set Willyrex
-[01:10:50] [Server thread/INFO]: julsitan issued server command: /skin set Willyrex
-[01:10:52] [Server thread/INFO]: julsitan issued server command: /skin set Willyrex
-[01:14:09] [Server thread/INFO]: RobertoJMX issued server command: /tpa b
-[01:14:10] [Server thread/INFO]: bat_m4n issued server command: /tpaccept RobertoJMX
-[01:14:22] [Server thread/INFO]: Gohan5253 was blown up by Creeper
-[01:14:28] [Server thread/INFO]: Gohan5253 issued server command: /back
-[01:16:19] [Server thread/INFO]: julsitan has made the advancement [Stone Age]
-[01:17:12] [Server thread/INFO]: julsitan has made the advancement [Getting an Upgrade]
-[01:20:45] [Server thread/INFO]: julsitan issued server command: /sethome baset
-[01:22:24] [Server thread/INFO]: Gohan5253 issued server command: /tpar
-[01:22:29] [Server thread/INFO]: Gohan5253 issued server command: /tpa r
-[01:22:32] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept Gohan5253
-[01:24:43] [Server thread/INFO]: julsitan issued server command: /home baset
-[01:24:49] [Server thread/INFO]: julsitan has made the advancement [Acquire Hardware]
-[01:25:06] [Server thread/INFO]: julsitan has made the advancement [Isn't It Iron Pick]
-[01:25:53] [Server thread/INFO]: Gohan5253 has made the advancement [Cover Me with Diamonds]
-[01:27:22] [User Authenticator #6/INFO]: UUID of player wintery is 4343838b-3007-3ac6-bca3-9739fe017183
-[01:27:25] [Server thread/INFO]: wintery joined the game
-[01:27:25] [Server thread/INFO]: wintery[/127.199.168.247:48255] logged in with entity id 28773 at ([world]2.5, 85.0, -7.5)
-[01:27:54] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> bro deja de chillaaaaaaaaaaaaar
-[01:27:59] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> habla
-[01:28:01] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> hola
-[01:28:05] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> hola :)
-[01:28:11] [Async Chat Thread - #5/INFO]: [Not Secure] <wintery> ):)
-[01:28:16] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> D:
-[01:28:20] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> :p
-[01:28:22] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> >:)
-[01:28:25] [Async Chat Thread - #4/INFO]: [Not Secure] <bat_m4n> :D
-[01:28:53] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> {:
-[01:28:59] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> =)
-[01:29:16] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> :}
-[01:29:23] [Async Chat Thread - #4/INFO]: [Not Secure] <julsitan> >=}
-[01:29:29] [Async Chat Thread - #4/INFO]: [Not Secure] <wintery> :]
-[01:29:37] [Server thread/INFO]: julsitan issued server command: /home baset
-[01:29:45] [Server thread/INFO]: Gohan5253 has made the advancement [Hot Stuff]
-[01:29:52] [Server thread/INFO]: julsitan has made the advancement [Suit Up]
-[01:30:55] [Server thread/INFO]: Gohan5253 lost connection: Disconnected
-[01:30:55] [Server thread/INFO]: Gohan5253 left the game
-[01:31:47] [User Authenticator #7/INFO]: UUID of player Tomate71421 is 7bd89180-6e5e-3f82-b7ae-5eacd4b0a506
-[01:31:51] [Server thread/INFO]: Tomate71421 joined the game
-[01:31:51] [Server thread/INFO]: Tomate71421[/127.134.117.38:38373] logged in with entity id 31253 at ([world]-8.5, 83.0, 1.5)
-[01:32:37] [Server thread/INFO]: julsitan has made the advancement [Diamonds!]
-[01:33:34] [Server thread/INFO]: julsitan has made the advancement [Monster Hunter]
-[01:34:24] [Server thread/INFO]: wintery has made the advancement [Stone Age]
-[01:35:09] [Server thread/INFO]: julsitan issued server command: /home baset
-[01:39:24] [Server thread/INFO]: Tomate71421 has made the advancement [Sweet Dreams]
-[01:39:27] [Server thread/INFO]: wintery has made the advancement [Sweet Dreams]
-[01:39:47] [Server thread/INFO]: Tomate71421 has made the advancement [Stone Age]
-[01:39:59] [Server thread/INFO]: Made bat_m4n a server operator
-[01:40:08] [Server thread/INFO]: bat_m4n issued server command: /lp user julsitan parent add diablo
-[01:40:08] [luckperms-command-executor/INFO]: [LP] LOG > (bat_m4n) [U] (julsitan)
-[01:40:08] [luckperms-command-executor/INFO]: [LP] LOG > parent add diablo
-[01:40:18] [Server thread/INFO]: bat_m4n issued server command: /lp user Tomate71421 parent add diablo
-[01:40:18] [luckperms-command-executor/INFO]: [LP] LOG > (bat_m4n) [U] (tomate71421)
-[01:40:18] [luckperms-command-executor/INFO]: [LP] LOG > parent add diablo
-[01:40:24] [Server thread/INFO]: bat_m4n issued server command: /lp user wintery parent add diablo
-[01:40:24] [luckperms-command-executor/INFO]: [LP] LOG > (bat_m4n) [U] (wintery)
-[01:40:24] [luckperms-command-executor/INFO]: [LP] LOG > parent add diablo
-[01:40:35] [Server thread/INFO]: wintery has made the advancement [Getting an Upgrade]
-[01:42:31] [Server thread/INFO]: Tomate71421 has made the advancement [Getting an Upgrade]
-[01:42:35] [Server thread/INFO]: wintery has made the advancement [Monster Hunter]
-[01:43:30] [Server thread/INFO]: Tomate71421 was slain by Zombie
-[01:43:40] [Server thread/INFO]: Tomate71421 issued server command: /back
-[01:44:11] [Server thread/INFO]: Tomate71421 was slain by Zombie
-[01:44:30] [User Authenticator #8/INFO]: UUID of player Sebitrucha is 19f657d0-8d59-3ec9-8c2e-e98b7ca4873c
-[01:44:34] [Server thread/INFO]: Sebitrucha joined the game
-[01:44:34] [Server thread/INFO]: Sebitrucha[/127.225.20.38:54945] logged in with entity id 41888 at ([world]-4.5, 86.0, 0.5)
-[01:44:42] [Async Chat Thread - #6/INFO]: [Not Secure] <bat_m4n> server vivo
-[01:44:45] [Async Chat Thread - #6/INFO]: [Not Secure] <bat_m4n> omg
-[01:44:50] [Async Chat Thread - #6/INFO]: [Not Secure] <wintery> oau
-[01:44:55] [Server thread/INFO]: bat_m4n issued server command: /deop bat_m4n
-[01:44:55] [Server thread/INFO]: [bat_m4n: Made bat_m4n no longer a server operator]
-[01:44:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebitrucha> la leyenda del leather face cuenta que el leatherface se estaba masturbandi
-[01:45:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebitrucha> cuando se le callo la motocierra en la pija
-[01:45:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebitrucha> y se la corto
-[01:45:18] [Server thread/INFO]: Tomate71421 was shot by Skeleton
-[01:45:23] [Async Chat Thread - #7/INFO]: [Not Secure] <julsitan> metete a llamada especialito
-[01:45:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> asi el leatherface dijo
-[01:45:32] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> no
-[01:46:10] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> donde pijas estoy
-[01:46:15] [Async Chat Thread - #7/INFO]: [Not Secure] <bat_m4n> en un bosque
-[01:46:17] [Async Chat Thread - #7/INFO]: [Not Secure] <bat_m4n> la chinita
-[01:46:20] [Async Chat Thread - #7/INFO]: [Not Secure] <bat_m4n> la chinita se perdio
-[01:46:21] [Async Chat Thread - #7/INFO]: [Not Secure] <bat_m4n> unete
-[01:46:26] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> chucha iba a decir eso
-[01:46:33] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> no puedo
-[01:46:34] [Async Chat Thread - #7/INFO]: [Not Secure] <bat_m4n> :D
-[01:46:36] [Server thread/INFO]: Villager Villager['Villager'/43068, uuid='b7ed2b98-3909-4cc7-aee5-95bd03fb5531', l='ServerLevel[world]', x=-454.85, y=73.69, z=-1096.75, cpos=[-29, -69], tl=1562, v=true] died, message: 'Villager was slain by Zombie'
-[01:46:37] [Async Chat Thread - #7/INFO]: [Not Secure] <bat_m4n> chch
-[01:46:46] [Server thread/INFO]: Tomate71421 was slain by Zombie
-[01:46:54] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> k huevon
-[01:47:04] [Server thread/INFO]: Sebitrucha was slain by Zombie
-[01:47:10] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> xd
-[01:47:39] [Server thread/INFO]: Villager Villager['Villager'/43069, uuid='3e965f58-f808-4e7c-b7c1-3f0c58152e9f', l='ServerLevel[world]', x=-454.66, y=72.94, z=-1096.85, cpos=[-29, -69], tl=2883, v=true] died, message: 'Villager was slain by Zombie'
-[01:47:49] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> me mato un cerdo
-[01:48:03] [Server thread/INFO]: wintery has made the advancement [Suit Up]
-[01:48:10] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> que paso
-[01:48:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Sebitrucha> reiniciaron el server?
-[01:48:45] [Server thread/INFO]: Sebitrucha lost connection: Disconnected
-[01:48:45] [Server thread/INFO]: Sebitrucha left the game
-[01:52:01] [Server thread/WARN]: wintery moved too quickly! -1.5795559920146616,3.750812921255317,-16.055149299096684
-[01:52:46] [Server thread/INFO]: wintery lost connection: Timed out
-[01:52:46] [Server thread/INFO]: wintery left the game
-[01:54:58] [Server thread/INFO]: julsitan issued server command: /sethome 90degrees
-[01:56:21] [Server thread/INFO]: julsitan issued server command: /sethome basetalvez
-[01:56:25] [Server thread/INFO]: julsitan issued server command: /home baset
-[01:56:59] [Server thread/INFO]: julsitan issued server command: /sethome basetalvez
-[01:57:05] [Server thread/INFO]: julsitan issued server command: /home basetalvez
-[01:57:11] [Server thread/INFO]: julsitan lost connection: Disconnected
-[01:57:11] [Server thread/INFO]: julsitan left the game
-[02:01:26] [User Authenticator #9/INFO]: UUID of player wintery is 4343838b-3007-3ac6-bca3-9739fe017183
-[02:01:28] [Server thread/INFO]: wintery joined the game
-[02:01:28] [Server thread/INFO]: wintery[/127.199.168.247:47123] logged in with entity id 54177 at ([world]-657.8420059948171, 93.0, -1142.5850665485432)
-[02:01:38] [Async Chat Thread - #8/INFO]: [Not Secure] <bat_m4n> se redimio
-[02:03:10] [Server thread/INFO]: wintery lost connection: Disconnected
-[02:03:10] [Server thread/INFO]: wintery left the game
-[02:03:53] [Server thread/INFO]: Tomate71421 was slain by Spider
-[02:08:24] [Server thread/INFO]: bat_m4n has made the advancement [What a Deal!]
-[02:09:52] [Server thread/INFO]: RobertoJMX has made the advancement [What a Deal!]
-[02:11:05] [Server thread/INFO]: bat_m4n lost connection: Disconnected
-[02:11:06] [Server thread/INFO]: bat_m4n left the game
-[02:11:09] [User Authenticator #10/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
-[02:11:10] [Server thread/INFO]: bat_m4n joined the game
-[02:11:10] [Server thread/INFO]: bat_m4n[/127.146.247.52:46837] logged in with entity id 57945 at ([world]1901.699999988079, 65.0, 1699.050644174267)
-[02:11:23] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
-[02:11:26] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept bat_m4n
-[02:17:09] [User Authenticator #11/INFO]: UUID of player wintery is 4343838b-3007-3ac6-bca3-9739fe017183
-[02:17:11] [Server thread/INFO]: wintery joined the game
-[02:17:11] [Server thread/INFO]: wintery[/127.199.168.247:49267] logged in with entity id 60787 at ([world]-859.7801515740522, 69.0, -1173.699999988079)
-[02:17:52] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> camañero
-[02:17:54] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> desmute
-[02:17:55] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> q
-[02:18:02] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> :}
-[02:18:07] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> :)
-[02:18:11] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> :]
-[02:18:52] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> no puedes hablar?
-[02:18:55] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> si
-[02:19:00] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> D.
-[02:21:43] [Server thread/INFO]: wintery has made the advancement [Acquire Hardware]
-[02:21:49] [Server thread/INFO]: wintery was slain by Zombie
-[02:22:20] [Server thread/INFO]: RobertoJMX has made the advancement [A Seedy Place]
-[02:22:41] [Server thread/INFO]: Made bat_m4n a server operator
-[02:22:55] [Server thread/INFO]: bat_m4n issued server command: /gamerule playersSleepingPercentage 1
-[02:22:55] [Server thread/INFO]: [bat_m4n: Gamerule playersSleepingPercentage is now set to: 1]
-[02:22:57] [Server thread/INFO]: bat_m4n issued server command: /deop bat_m4n
-[02:22:57] [Server thread/INFO]: [bat_m4n: Made bat_m4n no longer a server operator]
-[02:24:05] [Server thread/INFO]: Tomate71421 has made the advancement [Acquire Hardware]
-[02:26:57] [Server thread/INFO]: Tomate71421 issued server command: /sethome 1
-[02:27:03] [Server thread/INFO]: Tomate71421 issued server command: /home 1
-[02:27:37] [Server thread/INFO]: RobertoJMX issued server command: /sethome aldea
-[02:27:43] [Server thread/INFO]: RobertoJMX issued server command: /home p
-[02:27:49] [Server thread/INFO]: RobertoJMX issued server command: /home portal
-[02:27:58] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
-[02:28:17] [Server thread/INFO]: RobertoJMX issued server command: /home portal
-[02:28:24] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
-[02:29:59] [Server thread/INFO]: bat_m4n issued server command: /sethome aldea
-[02:30:40] [Server thread/INFO]: Tomate71421 has made the advancement [Suit Up]
-[02:31:26] [Server thread/INFO]: wintery lost connection: Disconnected
-[02:31:26] [Server thread/INFO]: wintery left the game
-[02:32:20] [Server thread/INFO]: RobertoJMX issued server command: /home portal
-[02:32:30] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
-[02:35:35] [Server thread/INFO]: RobertoJMX issued server command: /tpa t
-[02:35:39] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept RobertoJMX
-[02:35:48] [Server thread/INFO]: RobertoJMX issued server command: /tpa t
-[02:35:50] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept RobertoJMX
-[02:35:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Tomate71421> ew
-[02:36:06] [Server thread/INFO]: bat_m4n issued server command: /tpa tomat
-[02:36:13] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept bat_m4n
-[02:36:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Tomate71421> e
-[02:36:34] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[02:37:48] [Server thread/INFO]: Tomate71421 was slain by RobertoJMX
-[02:37:55] [Server thread/INFO]: Tomate71421 issued server command: /back
-[02:38:12] [Server thread/INFO]: Tomate71421 lost connection: Disconnected
-[02:38:12] [Server thread/INFO]: Tomate71421 left the game
-[02:41:25] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
-[02:46:46] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
-[02:46:46] [Server thread/INFO]: RobertoJMX left the game
-[03:21:29] [Server thread/INFO]: Villager Villager['Villager'/73135, uuid='f11b0d19-9630-476f-be53-329cd0458d1f', l='ServerLevel[world]', x=1704.68, y=65.82, z=1718.30, cpos=[106, 107], tl=166135, v=true] died, message: 'Villager was slain by Zombie'
-[03:22:41] [User Authenticator #12/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
-[03:22:44] [Server thread/INFO]: RobertoJMX joined the game
-[03:22:44] [Server thread/INFO]: RobertoJMX[/127.238.50.120:55337] logged in with entity id 79034 at ([world]1790.891974283093, 71.0, 1742.597838008418)
-[03:43:11] [Server thread/INFO]: Villager Villager['Armorer'/73136, uuid='b64b254a-4926-495e-a494-d9f2e2249afa', l='ServerLevel[world]', x=1786.30, y=71.00, z=1732.30, cpos=[111, 108], tl=192196, v=true] died, message: 'Armorer was slain by Zombie'
-[04:20:19] [Server thread/INFO]: bat_m4n fell from a high place
-[04:20:23] [Server thread/INFO]: bat_m4n issued server command: /back
-[04:28:11] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
-[04:28:11] [Server thread/INFO]: RobertoJMX left the game
-[04:41:22] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[05:24:43] [Server thread/INFO]: Stopping the server
-[05:24:43] [Server thread/INFO]: Stopping server
-[05:24:43] [Server thread/INFO]: [ClickTpa] Disabling ClickTpa v1.7.4
-[05:24:43] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
-[05:24:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+111-b54c8c1
-[05:24:43] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.57.3
-[05:24:43] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.57.3
-[05:24:43] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
-[05:24:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.141
-[05:24:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[05:24:43] [Server thread/INFO]: [LuckPerms] Closing storage...
-[05:24:43] [Server thread/INFO]: [LuckPerms] Goodbye!
-[05:24:43] [Server thread/INFO]: Saving players
-[05:24:43] [Server thread/INFO]: bat_m4n lost connection: Server closed
-[05:24:43] [Server thread/INFO]: bat_m4n left the game
-[05:24:44] [Server thread/INFO]: Saving worlds
-[05:24:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:24:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:24:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:24:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:24:44] [Server thread/INFO]: [ChunkHolderManager] Saved 33 block chunks, 272 entity chunks, 1 poi chunks in world 'world' in 0.18s
-[05:24:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:24:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:24:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:24:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:24:46] [Server thread/INFO]: [ChunkHolderManager] Saved 330 block chunks, 60 entity chunks, 0 poi chunks in world 'world_nether' in 0.24s
-[05:24:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:24:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:24:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:24:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:24:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
-[05:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:26:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:26:23] [ServerMain/INFO]: Loaded 1290 recipes
+[20:26:24] [ServerMain/INFO]: Loaded 1399 advancements
+[20:26:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:26:24] [Server thread/INFO]: Loading properties
+[20:26:24] [Server thread/INFO]: This server is running Paper version 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[20:26:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:26:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:26:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:26:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:26:26] [Server thread/INFO]: Default game type: SURVIVAL
+[20:26:26] [Server thread/INFO]: Generating keypair
+[20:26:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:26:26] [Server thread/INFO]: Using epoll channel type
+[20:26:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:26:26] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:26:27] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:26:37] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.4 does not specify an api-version.
+[20:26:37] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
+[20:26:38] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[20:26:38] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.57.3
+[20:26:38] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+111-b54c8c1
+[20:26:38] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[20:26:38] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.4
+[20:26:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:26:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[20:26:39] [Server thread/INFO]:         __    
+[20:26:39] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
+[20:26:39] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:26:39] [Server thread/INFO]: 
+[20:26:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:26:39] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:26:40] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:26:40] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:26:40] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1788ms)
+[20:26:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[20:26:42] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:26:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[20:26:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:26:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:26:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:26:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:26:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:26:44] [Server thread/INFO]: Preparing level "world"
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:26:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:26:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:26:47] [Server thread/INFO]: Time elapsed: 1893 ms
+[20:26:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:26:47] [Server thread/INFO]: Time elapsed: 588 ms
+[20:26:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:26:48] [Server thread/INFO]: Time elapsed: 275 ms
+[20:26:48] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[20:26:49] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.57.3
+[20:26:49] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.57.3
+[20:26:49] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[20:26:50] [Server thread/INFO]: There is a new version available. (4.57.4)
+[20:26:50] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/conditionalevents
+[20:26:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+111-b54c8c1
+[20:26:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:26:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:26:51] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[20:26:51] [Server thread/INFO]: [Essentials] Using locale en
+[20:26:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:26:51] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:26:52] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[20:26:52] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[20:26:52] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20:26:52] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[20:26:52] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.4*
+[20:26:52] [Server thread/INFO]: [ClickTpa] ClickTPA has been loaded Successfully!
+[20:26:52] [Server thread/INFO]: [spark] Starting background profiler...
+[20:26:53] [Server thread/INFO]: Done preparing level "world" (8.218s)
+[20:26:53] [Server thread/INFO]: Running delayed init tasks
+[20:26:53] [Server thread/INFO]: Done (40.399s)! For help, type "help"
+[20:26:53] [Server thread/INFO]: Timings Reset
+[20:26:53] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:26:53] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
+[20:26:53] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[20:26:53] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[20:35:08] [User Authenticator #0/INFO]: UUID of player JoaquinAsur is fffedf19-25dc-31a0-9e68-64aa0eec1a1c
+[20:35:09] [Server thread/INFO]: JoaquinAsur joined the game
+[20:35:09] [Server thread/INFO]: JoaquinAsur[/127.118.122.213:48499] logged in with entity id 73 at ([world]-2109.1884926028342, 71.00133597911214, -360.57410002889753)
+[20:35:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7f069298-c158-4a2b-b3be-e9cb7ae099d5, mapped to Bat['Bat'/190, uuid='7f069298-c158-4a2b-b3be-e9cb7ae099d5', l='ServerLevel[world]', x=-2071.51, y=-32.55, z=-445.81, cpos=[-130, -28], tl=175, v=true], can't add Bat['Bat'/211, uuid='7f069298-c158-4a2b-b3be-e9cb7ae099d5', l='ServerLevel[world]', x=-2071.79, y=-32.57, z=-448.30, cpos=[-130, -29], tl=185, v=false]
+[20:35:11] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1ec73c21-24bf-42ad-a1f0-0e23d4e9aeb1, mapped to Bat['Bat'/200, uuid='1ec73c21-24bf-42ad-a1f0-0e23d4e9aeb1', l='ServerLevel[world]', x=-2159.27, y=13.82, z=-431.36, cpos=[-135, -27], tl=59, v=true], can't add Bat['Bat'/249, uuid='1ec73c21-24bf-42ad-a1f0-0e23d4e9aeb1', l='ServerLevel[world]', x=-2160.06, y=14.29, z=-434.46, cpos=[-136, -28], tl=77, v=false]
+[20:35:14] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5b262891-9c1d-4ecd-8171-9bd648f322a8, mapped to Bee['Bee'/321, uuid='5b262891-9c1d-4ecd-8171-9bd648f322a8', l='ServerLevel[world]', x=-1903.93, y=67.22, z=-312.98, cpos=[-119, -20], tl=1798, v=true], can't add Bee['Bee'/332, uuid='5b262891-9c1d-4ecd-8171-9bd648f322a8', l='ServerLevel[world]', x=-1912.42, y=69.40, z=-277.35, cpos=[-120, -18], tl=2672, v=false]
+[20:35:14] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 51bdb14f-01d9-405c-ba43-4d50a45befb8, mapped to Bee['Bee'/327, uuid='51bdb14f-01d9-405c-ba43-4d50a45befb8', l='ServerLevel[world]', x=-1916.96, y=68.21, z=-301.54, cpos=[-120, -19], tl=2296, v=true], can't add Bee['Bee'/346, uuid='51bdb14f-01d9-405c-ba43-4d50a45befb8', l='ServerLevel[world]', x=-1902.92, y=78.26, z=-281.21, cpos=[-119, -18], tl=1422, v=false]
+[20:35:26] [Server thread/INFO]: JoaquinAsur lost connection: Disconnected
+[20:35:26] [Server thread/INFO]: JoaquinAsur left the game
