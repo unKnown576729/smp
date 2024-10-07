@@ -167,3 +167,27 @@
 [21:47:14] [Async Chat Thread - #12/INFO]: [Not Secure] <julsitan> se logro muchasho?
 [21:47:20] [Async Chat Thread - #12/INFO]: [Not Secure] <CaramelLynx> zi
 [21:47:36] [Server thread/INFO]: bat_m4n issued server command: /homes
+[21:49:09] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.141.
+[21:49:09] [luckperms-command-executor/INFO]: > /lp user <user>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp group <group>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp track <track>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp log
+[21:49:09] [luckperms-command-executor/INFO]: > /lp sync
+[21:49:09] [luckperms-command-executor/INFO]: > /lp info
+[21:49:09] [luckperms-command-executor/INFO]: > /lp editor [type]
+[21:49:09] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[21:49:09] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[21:49:09] [luckperms-command-executor/INFO]: > /lp search <permission>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp networksync
+[21:49:09] [luckperms-command-executor/INFO]: > /lp import <file>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp export <file>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[21:49:09] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[21:49:09] [luckperms-command-executor/INFO]: > /lp translations
+[21:49:09] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp listgroups
+[21:49:09] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[21:49:09] [luckperms-command-executor/INFO]: > /lp listtracks
+[21:49:18] [Server thread/INFO]: Made bat_m4n a server operator
