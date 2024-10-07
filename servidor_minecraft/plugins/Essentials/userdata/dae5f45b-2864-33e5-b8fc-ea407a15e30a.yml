@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728266231655
+  logout: 1728342856760
   login: 1728334299220
 money: '0'
 last-account-name: julsitan
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: 1831.7432147017007
-  y: 120.0
-  z: 1129.062001690459
-  yaw: 32.99835205078125
-  pitch: 2.39998197555542
+  x: 1786.6172614758605
+  y: 201.0
+  z: 1198.6964532368536
+  yaw: 26.246891021728516
+  pitch: 24.90010643005371
 lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
