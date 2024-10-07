@@ -420,3 +420,17 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:22:57] [Server thread/INFO]: bat_m4n issued server command: /deop bat_m4n
 [02:22:57] [Server thread/INFO]: [bat_m4n: Made bat_m4n no longer a server operator]
 [02:24:05] [Server thread/INFO]: Tomate71421 has made the advancement [Acquire Hardware]
+[02:26:57] [Server thread/INFO]: Tomate71421 issued server command: /sethome 1
+[02:27:03] [Server thread/INFO]: Tomate71421 issued server command: /home 1
+[02:27:37] [Server thread/INFO]: RobertoJMX issued server command: /sethome aldea
+[02:27:43] [Server thread/INFO]: RobertoJMX issued server command: /home p
+[02:27:49] [Server thread/INFO]: RobertoJMX issued server command: /home portal
+[02:27:58] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[02:28:17] [Server thread/INFO]: RobertoJMX issued server command: /home portal
+[02:28:24] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[02:29:59] [Server thread/INFO]: bat_m4n issued server command: /sethome aldea
+[02:30:40] [Server thread/INFO]: Tomate71421 has made the advancement [Suit Up]
+[02:31:26] [Server thread/INFO]: wintery lost connection: Disconnected
+[02:31:26] [Server thread/INFO]: wintery left the game
+[02:32:20] [Server thread/INFO]: RobertoJMX issued server command: /home portal
+[02:32:30] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
