@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1728343824607
   login: 1728340043204
 money: '0'
 last-account-name: saritachoclo
+logoutlocation:
+  world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
+  world-name: world
+  x: -106.62536025476336
+  y: 67.0
+  z: -44.526013327531615
+  yaw: -171.28125
+  pitch: 12.300108909606934
