@@ -450,3 +450,7 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:41:25] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
 [02:46:46] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
 [02:46:46] [Server thread/INFO]: RobertoJMX left the game
+[03:21:29] [Server thread/INFO]: Villager Villager['Villager'/73135, uuid='f11b0d19-9630-476f-be53-329cd0458d1f', l='ServerLevel[world]', x=1704.68, y=65.82, z=1718.30, cpos=[106, 107], tl=166135, v=true] died, message: 'Villager was slain by Zombie'
+[03:22:41] [User Authenticator #12/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
+[03:22:44] [Server thread/INFO]: RobertoJMX joined the game
+[03:22:44] [Server thread/INFO]: RobertoJMX[/127.238.50.120:55337] logged in with entity id 79034 at ([world]1790.891974283093, 71.0, 1742.597838008418)
