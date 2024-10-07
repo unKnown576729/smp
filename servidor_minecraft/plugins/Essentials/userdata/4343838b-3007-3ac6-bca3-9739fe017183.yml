@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1728264445398
+  logout: 1728265966790
+  login: 1728266488347
 money: '0'
 last-account-name: wintery
+logoutlocation:
+  world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
+  world-name: world
+  x: -657.8420059948171
+  y: 93.0
+  z: -1142.5850665485432
+  yaw: 56.09765625
+  pitch: 57.899967193603516

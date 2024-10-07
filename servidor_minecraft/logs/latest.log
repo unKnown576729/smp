@@ -374,3 +374,16 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [01:48:45] [Server thread/INFO]: Sebitrucha lost connection: Disconnected
 [01:48:45] [Server thread/INFO]: Sebitrucha left the game
 [01:52:01] [Server thread/WARN]: wintery moved too quickly! -1.5795559920146616,3.750812921255317,-16.055149299096684
+[01:52:46] [Server thread/INFO]: wintery lost connection: Timed out
+[01:52:46] [Server thread/INFO]: wintery left the game
+[01:54:58] [Server thread/INFO]: julsitan issued server command: /sethome 90degrees
+[01:56:21] [Server thread/INFO]: julsitan issued server command: /sethome basetalvez
+[01:56:25] [Server thread/INFO]: julsitan issued server command: /home baset
+[01:56:59] [Server thread/INFO]: julsitan issued server command: /sethome basetalvez
+[01:57:05] [Server thread/INFO]: julsitan issued server command: /home basetalvez
+[01:57:11] [Server thread/INFO]: julsitan lost connection: Disconnected
+[01:57:11] [Server thread/INFO]: julsitan left the game
+[02:01:26] [User Authenticator #9/INFO]: UUID of player wintery is 4343838b-3007-3ac6-bca3-9739fe017183
+[02:01:28] [Server thread/INFO]: wintery joined the game
+[02:01:28] [Server thread/INFO]: wintery[/127.199.168.247:47123] logged in with entity id 54177 at ([world]-657.8420059948171, 93.0, -1142.5850665485432)
+[02:01:38] [Async Chat Thread - #8/INFO]: [Not Secure] <bat_m4n> se redimio
