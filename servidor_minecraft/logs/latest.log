@@ -135,3 +135,137 @@
 [00:51:59] [Server thread/INFO]: Gohan5253 has made the advancement [Stone Age]
 [00:55:42] [Server thread/INFO]: Gohan5253 has made the advancement [Monster Hunter]
 [00:58:20] [Server thread/INFO]: Gohan5253 has made the advancement [Not Today, Thank You]
+[01:00:34] [User Authenticator #4/INFO]: UUID of player julsitan is dae5f45b-2864-33e5-b8fc-ea407a15e30a
+[01:00:38] [Server thread/INFO]: julsitan joined the game
+[01:00:38] [Server thread/INFO]: julsitan[/127.16.75.49:48367] logged in with entity id 11939 at ([world]-1.5, 84.0, 8.5)
+[01:00:45] [Server thread/INFO]: RobertoJMX issued server command: /tpa
+[01:00:53] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> recien?
+[01:00:55] [Async Chat Thread - #1/INFO]: [Not Secure] <julsitan> buenos dias
+[01:01:20] [Server thread/INFO]: RobertoJMX issued server command: /tpa B
+[01:01:22] [Server thread/INFO]: bat_m4n issued server command: /tpaccept RobertoJMX
+[01:01:54] [Server thread/INFO]: julsitan issued server command: /tpa bat_m4n
+[01:02:00] [Server thread/INFO]: julsitan issued server command: /tpa bat_m4n
+[01:02:25] [Server thread/INFO]: julsitan issued server command: /hello
+[01:02:54] [Server thread/INFO]: Gohan5253 lost connection: Disconnected
+[01:02:54] [Server thread/INFO]: Gohan5253 left the game
+[01:03:04] [Async Chat Thread - #2/INFO]: [Not Secure] <bat_m4n> ESCLAVISAR NEGROS
+[01:03:14] [User Authenticator #5/INFO]: UUID of player Gohan5253 is bb191116-4b87-3afe-a46b-300d80d6e424
+[01:03:16] [Server thread/INFO]: Gohan5253 joined the game
+[01:03:16] [Server thread/INFO]: Gohan5253[/127.181.28.34:47893] logged in with entity id 14061 at ([world]-313.6576682738528, 30.0, -153.56115205106008)
+[01:03:52] [Server thread/INFO]: Gohan5253 fell from a high place
+[01:03:58] [Server thread/INFO]: Gohan5253 issued server command: /back
+[01:05:55] [Server thread/INFO]: Gohan5253 has made the advancement [Suit Up]
+[01:08:18] [Server thread/INFO]: julsitan was shot by Skeleton
+[01:08:18] [Server thread/INFO]: Gohan5253 has made the advancement [Diamonds!]
+[01:08:35] [Server thread/INFO]: julsitan issued server command: /skins
+[01:08:41] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
+java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
+	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:42] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
+java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
+	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:45] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
+java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
+	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:46] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
+java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
+	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:46] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
+java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
+	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:08:50] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Async task for SkinsRestorer v15.4.3 generated an exception
+java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.component.ResolvableProfile field org.bukkit.craftbukkit.inventory.CraftMetaSkull.profile to com.mojang.authlib.GameProfile
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:228) ~[?:?]
+	at java.base/jdk.internal.reflect.FieldAccessorImpl.throwSetIllegalArgumentException(FieldAccessorImpl.java:232) ~[?:?]
+	at java.base/jdk.internal.reflect.MethodHandleObjectFieldAccessorImpl.set(MethodHandleObjectFieldAccessorImpl.java:115) ~[?:?]
+	at java.base/java.lang.reflect.Field.set(Field.java:836) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.lambda$createItem$0(BukkitGUI.java:72) ~[SkinsRestorer.jar:?]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createItem(BukkitGUI.java:58) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:101) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.listeners.GUIActionListener.handle(GUIActionListener.java:46) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.shared.gui.ActionDataCallback.lambda$handle$0(ActionDataCallback.java:42) ~[SkinsRestorer.jar:?]
+	at SkinsRestorer.jar/net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.lambda$getCancellingTaskConsumer$0(FoliaSchedulerProvider.java:84) ~[SkinsRestorer.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.1.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:09:12] [Server thread/INFO]: julsitan issued server command: /skin set GianTV
+[01:09:21] [Server thread/INFO]: RobertoJMX issued server command: /home portal
+[01:09:46] [Server thread/INFO]: julsitan issued server command: /skin set GianTv
