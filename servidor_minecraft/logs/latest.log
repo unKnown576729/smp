@@ -389,3 +389,33 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:01:38] [Async Chat Thread - #8/INFO]: [Not Secure] <bat_m4n> se redimio
 [02:03:10] [Server thread/INFO]: wintery lost connection: Disconnected
 [02:03:10] [Server thread/INFO]: wintery left the game
+[02:03:53] [Server thread/INFO]: Tomate71421 was slain by Spider
+[02:08:24] [Server thread/INFO]: bat_m4n has made the advancement [What a Deal!]
+[02:09:52] [Server thread/INFO]: RobertoJMX has made the advancement [What a Deal!]
+[02:11:05] [Server thread/INFO]: bat_m4n lost connection: Disconnected
+[02:11:06] [Server thread/INFO]: bat_m4n left the game
+[02:11:09] [User Authenticator #10/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[02:11:10] [Server thread/INFO]: bat_m4n joined the game
+[02:11:10] [Server thread/INFO]: bat_m4n[/127.146.247.52:46837] logged in with entity id 57945 at ([world]1901.699999988079, 65.0, 1699.050644174267)
+[02:11:23] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
+[02:11:26] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept bat_m4n
+[02:17:09] [User Authenticator #11/INFO]: UUID of player wintery is 4343838b-3007-3ac6-bca3-9739fe017183
+[02:17:11] [Server thread/INFO]: wintery joined the game
+[02:17:11] [Server thread/INFO]: wintery[/127.199.168.247:49267] logged in with entity id 60787 at ([world]-859.7801515740522, 69.0, -1173.699999988079)
+[02:17:52] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> camañero
+[02:17:54] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> desmute
+[02:17:55] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> q
+[02:18:02] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> :}
+[02:18:07] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> :)
+[02:18:11] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> :]
+[02:18:52] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> no puedes hablar?
+[02:18:55] [Async Chat Thread - #10/INFO]: [Not Secure] <wintery> si
+[02:19:00] [Async Chat Thread - #10/INFO]: [Not Secure] <bat_m4n> D.
+[02:21:43] [Server thread/INFO]: wintery has made the advancement [Acquire Hardware]
+[02:21:49] [Server thread/INFO]: wintery was slain by Zombie
+[02:22:20] [Server thread/INFO]: RobertoJMX has made the advancement [A Seedy Place]
+[02:22:41] [Server thread/INFO]: Made bat_m4n a server operator
+[02:22:55] [Server thread/INFO]: bat_m4n issued server command: /gamerule playersSleepingPercentage 1
+[02:22:55] [Server thread/INFO]: [bat_m4n: Gamerule playersSleepingPercentage is now set to: 1]
+[02:22:57] [Server thread/INFO]: bat_m4n issued server command: /deop bat_m4n
+[02:22:57] [Server thread/INFO]: [bat_m4n: Made bat_m4n no longer a server operator]
