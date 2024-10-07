@@ -97,3 +97,14 @@
 [00:08:35] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
 [00:08:35] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
 [00:08:35] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[00:30:43] [User Authenticator #0/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[00:30:45] [Server thread/INFO]: bat_m4n joined the game
+[00:30:45] [Server thread/INFO]: bat_m4n[/127.146.247.52:40763] logged in with entity id 23 at ([world]-362.12149734398884, -18.0, -60.5352113618987)
+[00:33:51] [User Authenticator #1/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
+[00:33:53] [Server thread/INFO]: RobertoJMX joined the game
+[00:33:53] [Server thread/INFO]: RobertoJMX[/127.238.50.120:38717] logged in with entity id 741 at ([world]-483.61015783556036, -54.0, -63.32697949671402)
+[00:34:15] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
+[00:34:16] [Server thread/INFO]: RobertoJMX left the game
+[00:36:04] [User Authenticator #2/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
+[00:36:07] [Server thread/INFO]: RobertoJMX joined the game
+[00:36:07] [Server thread/INFO]: RobertoJMX[/127.238.50.120:37879] logged in with entity id 1090 at ([world]-483.61015783556036, -54.0, -63.32697949671402)
