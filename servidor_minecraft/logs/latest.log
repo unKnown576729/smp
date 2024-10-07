@@ -448,3 +448,5 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:38:12] [Server thread/INFO]: Tomate71421 lost connection: Disconnected
 [02:38:12] [Server thread/INFO]: Tomate71421 left the game
 [02:41:25] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[02:46:46] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
+[02:46:46] [Server thread/INFO]: RobertoJMX left the game

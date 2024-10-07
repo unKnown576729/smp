@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728261255948
+  logout: 1728269206347
   login: 1728261367644
 money: '0'
 last-account-name: RobertoJMX
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -483.61015783556036
-  y: -54.0
-  z: -63.32697949671402
-  yaw: -121.4716796875
-  pitch: 18.14983558654785
+  x: 1790.891974283093
+  y: 71.0
+  z: 1742.597838008418
+  yaw: -172.644287109375
+  pitch: 16.349956512451172
