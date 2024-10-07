@@ -281,3 +281,4 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [01:14:28] [Server thread/INFO]: Gohan5253 issued server command: /back
 [01:16:19] [Server thread/INFO]: julsitan has made the advancement [Stone Age]
 [01:17:12] [Server thread/INFO]: julsitan has made the advancement [Getting an Upgrade]
+[01:20:45] [Server thread/INFO]: julsitan issued server command: /sethome baset
