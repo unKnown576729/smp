@@ -269,3 +269,5 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [01:09:12] [Server thread/INFO]: julsitan issued server command: /skin set GianTV
 [01:09:21] [Server thread/INFO]: RobertoJMX issued server command: /home portal
 [01:09:46] [Server thread/INFO]: julsitan issued server command: /skin set GianTv
+[01:10:19] [Server thread/INFO]: julsitan issued server command: /skin set WillyRex
+[01:10:33] [Server thread/INFO]: RobertoJMX issued server command: /tpa b
