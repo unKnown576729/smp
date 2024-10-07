@@ -419,3 +419,4 @@ java.lang.IllegalArgumentException: Can not set net.minecraft.world.item.compone
 [02:22:55] [Server thread/INFO]: [bat_m4n: Gamerule playersSleepingPercentage is now set to: 1]
 [02:22:57] [Server thread/INFO]: bat_m4n issued server command: /deop bat_m4n
 [02:22:57] [Server thread/INFO]: [bat_m4n: Made bat_m4n no longer a server operator]
+[02:24:05] [Server thread/INFO]: Tomate71421 has made the advancement [Acquire Hardware]
