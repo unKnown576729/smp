@@ -129,3 +129,4 @@
 [20:22:38] [luckperms-command-executor/INFO]: [LP] sebitrucha now inherits permissions from diablo in context global.
 [20:22:41] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> ya
 [20:23:00] [Server thread/INFO]: Sebitrucha issued server command: /tpa bat_m4n
+[20:23:02] [Server thread/INFO]: bat_m4n issued server command: /tpaccept Sebitrucha
