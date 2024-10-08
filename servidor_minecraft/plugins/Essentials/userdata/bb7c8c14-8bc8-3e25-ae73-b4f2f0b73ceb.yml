@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728421754637
+  logout: 1728427915934
   login: 1728422503278
 money: '0'
 last-account-name: bat_m4n
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: 1787.5881164344005
-  y: 84.0
-  z: 1712.7146600279882
-  yaw: -88.2191162109375
-  pitch: 48.84694290161133
+  x: 1786.9323958381208
+  y: 71.0
+  z: 1734.2120262250294
+  yaw: 121.01611328125
+  pitch: 16.026710510253906
 lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
