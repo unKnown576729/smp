@@ -50,3 +50,62 @@
 [00:15:14] [Server thread/INFO]: bat_m4n issued server command: /sethome a
 [00:15:15] [Server thread/INFO]: bat_m4n issued server command: /homes
 [00:15:20] [Server thread/INFO]: bat_m4n issued server command: /homes
+[00:15:51] [Server thread/INFO]: bat_m4n issued server command: /home a
+[00:15:56] [Server thread/INFO]: saritachoclo has made the advancement [Stone Age]
+[00:16:00] [Server thread/INFO]: julsitan issued server command: /skin set GianTV_
+[00:16:03] [Server thread/INFO]: julsitan lost connection: Disconnected
+[00:16:03] [Server thread/INFO]: julsitan left the game
+[00:16:04] [User Authenticator #20/INFO]: UUID of player julsitan is dae5f45b-2864-33e5-b8fc-ea407a15e30a
+[00:16:06] [Server thread/INFO]: julsitan joined the game
+[00:16:06] [Server thread/INFO]: julsitan[/127.191.30.175:55449] logged in with entity id 70891 at ([world]1796.7062110557968, 201.0, 1199.8120589244033)
+[00:16:19] [Server thread/INFO]: Tomate71421 issued server command: /tpa r
+[00:16:25] [Server thread/INFO]: RobertoJMX issued server command: /tpadeny Tomate71421
+[00:16:27] [Server thread/INFO]: RobertoJMX issued server command: /tpadeny Tomate71421
+[00:16:28] [Server thread/INFO]: RobertoJMX issued server command: /tpadeny Tomate71421
+[00:16:32] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept Tomate71421
+[00:17:09] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[00:17:16] [Server thread/INFO]: bat_m4n issued server command: /home a
+[00:18:16] [Server thread/INFO]: julsitan issued server command: /tpa r
+[00:18:25] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept julsitan
+[00:19:16] [Server thread/INFO]: Tomate71421 issued server command: /home 1
+[00:19:24] [Server thread/INFO]: Tomate71421 issued server command: /tpa s
+[00:19:33] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[00:19:35] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[00:19:36] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[00:19:37] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[00:19:37] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[00:19:38] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[00:19:47] [Server thread/INFO]: Tomate71421 issued server command: /home 1
+[00:20:10] [Async Chat Thread - #54/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:13] [Async Chat Thread - #55/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:13] [Async Chat Thread - #55/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:13] [Async Chat Thread - #55/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:14] [Async Chat Thread - #55/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:14] [Async Chat Thread - #55/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:14] [Async Chat Thread - #55/INFO]: [Not Secure] <bat_m4n> ./tpa
+[00:20:16] [Server thread/INFO]: saritachoclo issued server command: /tpat
+[00:20:22] [Async Chat Thread - #55/INFO]: [Not Secure] <julsitan> ./tpa t
+[00:20:25] [Async Chat Thread - #55/INFO]: [Not Secure] <julsitan> ./tpa t
+[00:20:33] [Server thread/INFO]: saritachoclo issued server command: /tpa
+[00:20:41] [Server thread/INFO]: saritachoclo has made the advancement [Diamonds!]
+[00:20:42] [Async Chat Thread - #55/INFO]: [Not Secure] <Tomate71421> t
+[00:23:01] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:23:04] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept saritachoclo
+[00:23:12] [Async Chat Thread - #56/INFO]: [Not Secure] <Tomate71421> t
+[00:23:22] [Server thread/INFO]: julsitan issued server command: /home basealg
+[00:23:35] [Server thread/INFO]: julsitan issued server command: /tpa r
+[00:23:45] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept saritachoclo
+[00:23:57] [Server thread/INFO]: saritachoclo issued server command: /tpa r
+[00:24:02] [Server thread/INFO]: RobertoJMX issued server command: /tpaccept saritachoclo
+[00:24:08] [Server thread/INFO]: julsitan issued server command: /back
+[00:24:37] [Server thread/INFO]: julsitan issued server command: /home basedevelda
+[00:24:55] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:24:58] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept saritachoclo
+[00:25:12] [Server thread/INFO]: julsitan issued server command: /home spawn
+[00:25:16] [Server thread/INFO]: RobertoJMX issued server command: /tpa t
+[00:25:18] [Server thread/INFO]: julsitan issued server command: /tpa r
+[00:25:19] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept RobertoJMX
+[00:25:36] [Server thread/INFO]: bat_m4n issued server command: /tpa t
+[00:25:39] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept bat_m4n
+[00:25:48] [Server thread/INFO]: julsitan issued server command: /tpa r
+[00:25:57] [Server thread/INFO]: julsitan issued server command: /tpacancel
