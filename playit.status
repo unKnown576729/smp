@@ -2346,7 +2346,30 @@ MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
 [2J8[0mplayit (v0.15.26): 1728361301161 tunnel running, 1 tunnels registered
 
+Email not verified https://playit.gg/account/s[2J8[0mplayit (v0.15.26): 1728361303163 tunnel running, 1 tunnels registered
+
+Email not verified[2J8[0mplayit (v0.15.26): 1728361306650 tunnel running, 1 tunnels registered
+
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 pm-dublin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728361309718 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+pm-dublin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728361312789 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+pm-dublin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+=> 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
