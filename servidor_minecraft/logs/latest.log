@@ -109,3 +109,23 @@
 [20:01:53] [Server thread/INFO]: bat_m4n[/127.61.246.170:54359] logged in with entity id 952 at ([world]1886.927203044011, -1.0, 1799.263901807172)
 [20:04:22] [Server thread/INFO]: bat_m4n was blown up by Creeper
 [20:04:27] [Server thread/INFO]: bat_m4n issued server command: /back
+[20:18:17] [Server thread/INFO]: bat_m4n issued server command: /homeS
+[20:18:19] [Server thread/INFO]: bat_m4n issued server command: /homes
+[20:18:19] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:20:08] [User Authenticator #2/INFO]: UUID of player Sebitrucha is 19f657d0-8d59-3ec9-8c2e-e98b7ca4873c
+[20:20:10] [Server thread/INFO]: Sebitrucha joined the game
+[20:20:10] [Server thread/INFO]: Sebitrucha[/127.61.181.105:37083] logged in with entity id 4125 at ([world]20.883164690681106, 68.0, -11.405121906380904)
+[20:21:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebitrucha> cae
+[20:21:48] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> diga
+[20:21:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebitrucha> no te preocupes
+[20:22:01] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> ok
+[20:22:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebitrucha> aun falta
+[20:22:05] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> si
+[20:22:13] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> la cosa es que son canciones cagadas
+[20:22:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebitrucha> a
+[20:22:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebitrucha> y
+[20:22:22] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> y hay que empezar ya
+[20:22:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Sebitrucha> dame permisos para tp y esas madres
+[20:22:38] [luckperms-command-executor/INFO]: [LP] sebitrucha now inherits permissions from diablo in context global.
+[20:22:41] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> ya
+[20:23:00] [Server thread/INFO]: Sebitrucha issued server command: /tpa bat_m4n
