@@ -614,3 +614,19 @@
 [02:20:29] [Server thread/INFO]: JoaquinAsur issued server command: /homes
 [02:21:34] [Server thread/INFO]: JoaquinAsur was doomed to fall by Zombie
 [02:21:40] [Server thread/INFO]: JoaquinAsur issued server command: /back
+[02:24:35] [Server thread/WARN]: Oak Boat (vehicle of saritachoclo) moved wrongly! 0.6935467605209288
+[02:25:00] [Server thread/INFO]: JoaquinAsur issued server command: /sethome lush_cave
+[02:25:13] [Server thread/INFO]: Tomate71421 issued server command: /tpa e
+[02:25:23] [Server thread/INFO]: saritachoclo issued server command: /tpa c
+[02:25:24] [Server thread/INFO]: Tomate71421 issued server command: /tpa c
+[02:26:56] [Server thread/INFO]: JoaquinAsur issued server command: /home
+[02:28:11] [Server thread/INFO]: saritachoclo suffocated in a wall
+[02:28:12] [Server thread/INFO]: Attempt to teleport removed player saritachoclo restricted
+[02:28:27] [Server thread/INFO]: saritachoclo issued server command: /back
+[02:30:26] [Server thread/INFO]: Tomate71421 was burned to a crisp while fighting Zombie
+[02:30:31] [Server thread/INFO]: Tomate71421 issued server command: /back
+[02:30:46] [Server thread/INFO]: JoaquinAsur lost connection: Disconnected
+[02:30:46] [Server thread/INFO]: JoaquinAsur left the game
+[02:31:50] [Server thread/INFO]: Tomate71421 has made the advancement [Not Today, Thank You]
+[02:32:13] [Server thread/INFO]: Tomate71421 was blown up by Creeper
+[02:32:17] [Server thread/INFO]: Tomate71421 issued server command: /back
