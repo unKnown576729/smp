@@ -507,3 +507,22 @@
 [01:16:12] [Server thread/INFO]: bat_m4n issued server command: /back
 [01:16:20] [Server thread/INFO]: Villager Villager['Nitwit'/98837, uuid='ccdff1f8-d6d1-4b82-859f-72e05b5df553', l='ServerLevel[world]', x=-2062.70, y=58.00, z=-376.70, cpos=[-129, -24], tl=131536, v=true] died, message: 'Nitwit was slain by Zombie'
 [01:16:26] [Server thread/INFO]: Villager Villager['Villager'/98838, uuid='f574b1f0-2539-4f4b-9483-3c2865f25734', l='ServerLevel[world]', x=-2060.30, y=58.00, z=-376.49, cpos=[-129, -24], tl=131701, v=true] died, message: 'Villager was slain by Zombie Villager'
+[01:18:58] [Server thread/INFO]: bat_m4n issued server command: /sethome raid
+[01:18:59] [Server thread/INFO]: bat_m4n issued server command: /homes
+[01:21:52] [Server thread/INFO]: bat_m4n issued server command: /home raid
+[01:22:49] [Server thread/INFO]: bat_m4n was slain by Vex
+[01:22:52] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:23:29] [Server thread/INFO]: JoaquinAsur issued server command: /homes
+[01:23:33] [Server thread/INFO]: JoaquinAsur issued server command: /homes
+[01:24:14] [Server thread/INFO]: Villager Villager['Villager'/73531, uuid='1d0efb1f-aa17-4900-9bd0-f26acea216e5', l='ServerLevel[world]', x=-340.25, y=66.00, z=-354.34, cpos=[-22, -23], tl=79011, v=true] died, message: 'Villager was shot by Pillager'
+[01:24:36] [Server thread/INFO]: Villager Villager['Butcher'/73529, uuid='3712b8bc-4339-4677-9906-755b7fe903b7', l='ServerLevel[world]', x=-351.83, y=67.00, z=-347.31, cpos=[-22, -22], tl=68328, v=true] died, message: 'Butcher was shot by Pillager'
+[01:25:12] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:25:15] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:26:25] [Server thread/INFO]: bat_m4n hit the ground too hard while trying to escape Witch
+[01:26:30] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:27:02] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:27:05] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:27:22] [Server thread/INFO]: Tomate71421 was blown up by Creeper
+[01:27:30] [Server thread/INFO]: Tomate71421 issued server command: /back
+[01:28:18] [Server thread/INFO]: CaramelLynx has made the advancement [Cover Me with Diamonds]
+[01:28:26] [Async Chat Thread - #80/INFO]: [Not Secure] <CaramelLynx> xd
