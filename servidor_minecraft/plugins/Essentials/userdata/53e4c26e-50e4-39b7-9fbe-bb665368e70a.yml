@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1728349774267
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1728349554063
-  login: 1728348637152
+  login: 1728349722002
 money: '0'
 last-account-name: CaramelLynx
 logoutlocation:
@@ -28,3 +28,11 @@ logoutlocation:
   z: 1746.9181259195875
   yaw: -91.65918731689453
   pitch: 20.549884796142578
+lastlocation:
+  world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
+  world-name: world
+  x: 1787.699999988079
+  y: 70.9375
+  z: 1740.2418505908372
+  yaw: -143.11495971679688
+  pitch: 23.249990463256836

@@ -478,3 +478,32 @@
 [01:07:53] [Server thread/INFO]: bat_m4n was slain by Vindicator
 [01:07:56] [Server thread/INFO]: bat_m4n issued server command: /back
 [01:08:01] [Server thread/INFO]: Tomate71421 issued server command: /sethome 2
+[01:08:40] [User Authenticator #28/INFO]: UUID of player CaramelLynx is 53e4c26e-50e4-39b7-9fbe-bb665368e70a
+[01:08:41] [Server thread/INFO]: CaramelLynx joined the game
+[01:08:41] [Server thread/INFO]: CaramelLynx[/127.217.110.12:37197] logged in with entity id 97230 at ([world]1812.449165350695, 72.0, 1746.9181259195875)
+[01:09:00] [Server thread/INFO]: Tomate71421 hit the ground too hard
+[01:09:07] [Server thread/INFO]: Tomate71421 issued server command: /back
+[01:09:24] [Server thread/INFO]: CaramelLynx was blown up by Creeper
+[01:09:34] [Server thread/INFO]: CaramelLynx issued server command: /back
+[01:10:16] [User Authenticator #29/INFO]: UUID of player JoaquinAsur is fffedf19-25dc-31a0-9e68-64aa0eec1a1c
+[01:10:17] [Server thread/INFO]: JoaquinAsur joined the game
+[01:10:17] [Server thread/INFO]: JoaquinAsur[/127.162.49.41:42871] logged in with entity id 98738 at ([world]-2103.48980007332, 66.0, -299.30097455769396)
+[01:10:18] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:10:21] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:10:31] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:10:35] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:10:35] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:10:38] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:10:39] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:10:42] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:11:35] [Server thread/INFO]: Tomate71421 issued server command: /home 2
+[01:11:59] [Server thread/INFO]: Tomate71421 was slain by Zombie
+[01:12:05] [Server thread/INFO]: Tomate71421 issued server command: /back
+[01:13:22] [Server thread/INFO]: bat_m4n was slain by Ravager
+[01:13:29] [Server thread/INFO]: bat_m4n was slain by Ravager
+[01:13:48] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[01:13:51] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:16:09] [Server thread/INFO]: bat_m4n was slain by Ravager
+[01:16:12] [Server thread/INFO]: bat_m4n issued server command: /back
+[01:16:20] [Server thread/INFO]: Villager Villager['Nitwit'/98837, uuid='ccdff1f8-d6d1-4b82-859f-72e05b5df553', l='ServerLevel[world]', x=-2062.70, y=58.00, z=-376.70, cpos=[-129, -24], tl=131536, v=true] died, message: 'Nitwit was slain by Zombie'
+[01:16:26] [Server thread/INFO]: Villager Villager['Villager'/98838, uuid='f574b1f0-2539-4f4b-9483-3c2865f25734', l='ServerLevel[world]', x=-2060.30, y=58.00, z=-376.49, cpos=[-129, -24], tl=131701, v=true] died, message: 'Villager was slain by Zombie Villager'
