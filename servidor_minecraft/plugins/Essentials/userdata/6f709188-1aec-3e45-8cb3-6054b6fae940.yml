@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728343807056
+  logout: 1728421581890
   login: 1728421294283
 money: '0'
 last-account-name: matiiip
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -107.94530369386247
-  y: 67.0
-  z: -44.9723154416072
-  yaw: -152.39984130859375
-  pitch: 11.40000057220459
+  x: -104.62113961420462
+  y: 68.0
+  z: -47.30000001192093
+  yaw: 57.449859619140625
+  pitch: -0.15002547204494476
