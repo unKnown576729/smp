@@ -1,139 +1,109 @@
-[03:40:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
-[03:40:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) for Minecraft 1.21.1
-[03:40:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:40:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[03:40:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+[19:52:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[19:52:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) for Minecraft 1.21.1
+[19:52:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:52:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[19:52:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - ClickTpa (1.7.4), ConditionalEvents (4.57.3), Essentials (2.21.0-dev+111-b54c8c1), LuckPerms (5.4.141), SkinsRestorer (15.4.3), UltraSetHome (1.7.9)
-[03:40:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:40:44] [ServerMain/INFO]: Loaded 1290 recipes
-[03:40:44] [ServerMain/INFO]: Loaded 1399 advancements
-[03:40:45] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:40:45] [Server thread/INFO]: Loading properties
-[03:40:45] [Server thread/INFO]: This server is running Paper version 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[03:40:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:40:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:40:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:40:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:40:47] [Server thread/INFO]: Default game type: SURVIVAL
-[03:40:47] [Server thread/INFO]: Generating keypair
-[03:40:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:40:47] [Server thread/INFO]: Using epoll channel type
-[03:40:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:40:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:40:47] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[03:40:57] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.4 does not specify an api-version.
-[03:40:57] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
-[03:40:58] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[03:40:58] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.57.3
-[03:40:58] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+111-b54c8c1
-[03:40:58] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
-[03:40:58] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.4
-[03:40:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:40:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
-[03:40:58] [Server thread/INFO]:         __    
-[03:40:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
-[03:40:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:40:58] [Server thread/INFO]: 
-[03:40:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:40:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:40:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:40:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:40:59] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1745ms)
-[03:40:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
-[03:41:01] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:41:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[03:41:04] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:41:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:41:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:41:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:41:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:41:04] [Server thread/INFO]: Preparing level "world"
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:41:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:41:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:41:06] [Server thread/INFO]: Time elapsed: 1602 ms
-[03:41:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:41:07] [Server thread/INFO]: Time elapsed: 597 ms
-[03:41:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:41:07] [Server thread/INFO]: Time elapsed: 205 ms
-[03:41:07] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[03:41:08] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.57.3
-[03:41:09] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.57.3
-[03:41:09] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[03:41:09] [Server thread/INFO]: There is a new version available. (4.57.4)
-[03:41:09] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/conditionalevents
-[03:41:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+111-b54c8c1
-[03:41:10] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[03:41:10] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[03:41:10] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[03:41:10] [Server thread/INFO]: [Essentials] Using locale en
-[03:41:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:41:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[03:41:11] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
-[03:41:11] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[03:41:12] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[03:41:12] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[03:41:12] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.4*
-[03:41:12] [Server thread/INFO]: [ClickTpa] ClickTPA has been loaded Successfully!
-[03:41:12] [Server thread/INFO]: [spark] Starting background profiler...
-[03:41:12] [Server thread/INFO]: Done preparing level "world" (8.151s)
-[03:41:12] [Server thread/INFO]: Running delayed init tasks
-[03:41:12] [Server thread/INFO]: Done (36.795s)! For help, type "help"
-[03:41:12] [Server thread/INFO]: Timings Reset
-[03:41:12] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[03:41:12] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[03:41:12] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
-[03:41:12] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[03:41:21] [User Authenticator #0/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
-[03:41:23] [Server thread/INFO]: bat_m4n joined the game
-[03:41:24] [Server thread/INFO]: bat_m4n[/127.2.133.184:42853] logged in with entity id 61 at ([world]1880.935710336445, -37.0, 1782.699999988079)
-[03:44:17] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:44:19] [Server thread/INFO]: bat_m4n has completed the challenge [Sniper Duel]
-[03:44:21] [Server thread/INFO]: bat_m4n issued server command: /Back
-[03:44:27] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:44:33] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:44:36] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:44:43] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:44:46] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:44:53] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:44:55] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:45:01] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:45:04] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:45:12] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:45:15] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:45:22] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[03:45:25] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:45:39] [Server thread/INFO]: bat_m4n was shot by Stray
-[03:45:42] [Server thread/INFO]: bat_m4n issued server command: /back
-[03:49:41] [Server thread/INFO]: bat_m4n has made the advancement [Under Lock and Key]
-[04:00:58] [Server thread/INFO]: bat_m4n issued server command: /home cueva
-[04:01:42] [Server thread/INFO]: bat_m4n was killed by Witch using magic
-[04:01:45] [Server thread/INFO]: bat_m4n issued server command: /back
-[04:07:11] [Server thread/INFO]: bat_m4n was shot by Skeleton
-[04:07:15] [Server thread/INFO]: bat_m4n issued server command: /back
-[04:16:26] [Server thread/INFO]: bat_m4n was doomed to fall by Skeleton
-[04:16:31] [Server thread/INFO]: bat_m4n issued server command: /back
-[04:19:59] [Server thread/INFO]: bat_m4n issued server command: /back
-[04:21:03] [Server thread/INFO]: bat_m4n has made the advancement [A Seedy Place]
-[05:03:35] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[05:05:33] [Server thread/INFO]: bat_m4n issued server command: /home cueva
-[05:05:47] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[05:06:20] [Server thread/INFO]: bat_m4n issued server command: /home cueva
-[05:07:09] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[05:08:37] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[05:11:57] [Server thread/INFO]: bat_m4n burned to death
-[05:12:00] [Server thread/INFO]: bat_m4n issued server command: /back
-[05:15:48] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[05:25:26] [Server thread/INFO]: bat_m4n lost connection: Disconnected
-[05:25:26] [Server thread/INFO]: bat_m4n left the game
+[19:52:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:52:19] [ServerMain/INFO]: Loaded 1290 recipes
+[19:52:19] [ServerMain/INFO]: Loaded 1399 advancements
+[19:52:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:52:20] [Server thread/INFO]: Loading properties
+[19:52:20] [Server thread/INFO]: This server is running Paper version 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[19:52:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:52:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:52:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:52:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[19:52:22] [Server thread/INFO]: Default game type: SURVIVAL
+[19:52:22] [Server thread/INFO]: Generating keypair
+[19:52:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:52:22] [Server thread/INFO]: Using epoll channel type
+[19:52:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:52:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:52:23] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:52:33] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.4 does not specify an api-version.
+[19:52:33] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
+[19:52:33] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[19:52:33] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.57.3
+[19:52:33] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+111-b54c8c1
+[19:52:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[19:52:33] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.4
+[19:52:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:52:33] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[19:52:33] [Server thread/INFO]:         __    
+[19:52:33] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
+[19:52:33] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:52:33] [Server thread/INFO]: 
+[19:52:33] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:52:34] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:52:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:52:35] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:52:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1811ms)
+[19:52:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[19:52:37] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[19:52:38] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[19:52:39] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:52:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:52:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:52:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:52:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:52:39] [Server thread/INFO]: Preparing level "world"
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:52:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:52:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:52:42] [Server thread/INFO]: Time elapsed: 1686 ms
+[19:52:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:52:42] [Server thread/INFO]: Time elapsed: 657 ms
+[19:52:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:52:42] [Server thread/INFO]: Time elapsed: 226 ms
+[19:52:42] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[19:52:44] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.57.3
+[19:52:44] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.57.3
+[19:52:44] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[19:52:44] [Server thread/INFO]: There is a new version available. (4.57.4)
+[19:52:44] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/conditionalevents
+[19:52:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+111-b54c8c1
+[19:52:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:52:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:52:46] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[19:52:46] [Server thread/INFO]: [Essentials] Using locale en
+[19:52:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:52:47] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:52:47] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[19:52:47] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[19:52:47] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[19:52:47] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:52:47] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.4*
+[19:52:47] [Server thread/INFO]: [ClickTpa] ClickTPA has been loaded Successfully!
+[19:52:47] [Server thread/INFO]: [spark] Starting background profiler...
+[19:52:47] [Server thread/INFO]: Done preparing level "world" (8.110s)
+[19:52:47] [Server thread/INFO]: Running delayed init tasks
+[19:52:47] [Server thread/INFO]: Done (37.089s)! For help, type "help"
+[19:52:47] [Server thread/INFO]: Timings Reset
+[19:52:47] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:52:48] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
+[19:52:48] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[19:52:48] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[19:56:12] [User Authenticator #0/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[19:56:13] [Server thread/INFO]: bat_m4n joined the game
+[19:56:13] [Server thread/INFO]: bat_m4n[/127.61.246.170:59729] logged in with entity id 61 at ([world]1787.4957608285206, 64.0, 1704.8978947080088)
+[19:57:17] [Server thread/WARN]: bat_m4n moved too quickly! 13.272836157368602,1.130906499714527,3.5215280632935446
+[19:58:29] [Server thread/INFO]: bat_m4n issued server command: /home cueva
+[20:01:18] [Server thread/INFO]: bat_m4n (/127.61.246.170:44825) lost connection: Disconnected
+[20:01:18] [User Authenticator #1/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[20:01:41] [Server thread/INFO]: bat_m4n lost connection: Timed out
+[20:01:41] [Server thread/INFO]: bat_m4n left the game
+[20:01:52] [User Authenticator #1/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[20:01:53] [Server thread/INFO]: bat_m4n joined the game
+[20:01:53] [Server thread/INFO]: bat_m4n[/127.61.246.170:54359] logged in with entity id 952 at ([world]1886.927203044011, -1.0, 1799.263901807172)
