@@ -362,3 +362,17 @@
 [21:45:21] [Server thread/INFO]: bat_m4n issued server command: /homes
 [21:45:41] [Server thread/INFO]: bat_m4n issued server command: /home a
 [21:46:02] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[21:48:25] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[21:48:54] [User Authenticator #7/INFO]: UUID of player julsitan is dae5f45b-2864-33e5-b8fc-ea407a15e30a
+[21:48:57] [Server thread/INFO]: julsitan joined the game
+[21:48:57] [Server thread/INFO]: julsitan[/127.2.44.192:37771] logged in with entity id 35300 at ([world]-317.34647382370406, 69.0, -379.13464218464014)
+[21:49:19] [Server thread/INFO]: julsitan issued server command: /home basedevelda
+[21:49:44] [Server thread/INFO]: Villager Villager['Nitwit'/10976, uuid='c3a0ccf8-01b5-48e7-a68e-b9d77198342e', l='ServerLevel[world]', x=1804.99, y=73.00, z=1739.59, cpos=[112, 108], tl=859149, v=true] died, message: 'Nitwit burned to death'
+[21:50:48] [Server thread/INFO]: bat_m4n burned to death
+[21:50:51] [Server thread/INFO]: bat_m4n issued server command: /back
+[21:51:19] [Server thread/INFO]: CaramelLynx lost connection: Disconnected
+[21:51:20] [Server thread/INFO]: CaramelLynx left the game
+[21:51:52] [Server thread/INFO]: julsitan fell from a high place
+[21:51:58] [Async Chat Thread - #26/INFO]: [Not Secure] <Sebitrucha> pito
+[21:52:04] [Async Chat Thread - #26/INFO]: [Not Secure] <julsitan> comes
+[21:52:13] [Async Chat Thread - #26/INFO]: [Not Secure] <bat_m4n> apoco si muy pitin tilin
