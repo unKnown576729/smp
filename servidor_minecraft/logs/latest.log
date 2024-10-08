@@ -538,3 +538,16 @@
 [01:32:31] [Async Chat Thread - #82/INFO]: [Not Secure] <bat_m4n> nice
 [01:32:33] [Async Chat Thread - #82/INFO]: [Not Secure] <CaramelLynx> :)
 [01:37:35] [Server thread/INFO]: Tomate71421 has made the advancement [Isn't It Iron Pick]
+[01:42:20] [User Authenticator #30/INFO]: UUID of player Gohan5253 is bb191116-4b87-3afe-a46b-300d80d6e424
+[01:42:22] [Server thread/INFO]: Gohan5253 joined the game
+[01:42:22] [Server thread/INFO]: Gohan5253[/127.193.110.8:52081] logged in with entity id 119899 at ([world]1808.2727844927165, 72.0, 1741.2071256021159)
+[01:42:55] [Server thread/INFO]: bat_m4n issued server command: /msg CaramelLynx hice un trato con el ari, el ari se hace pasar de vendedor y va a las bases de los demas y nos da las coords
+[01:43:23] [Server thread/INFO]: CaramelLynx issued server command: /msg bat_m4n ok
+[01:43:27] [Server thread/INFO]: Tomate71421 issued server command: /home 2
+[01:45:39] [Server thread/INFO]: JoaquinAsur issued server command: /homes
+[01:46:09] [Server thread/INFO]: bat_m4n lost connection: Disconnected
+[01:46:09] [Server thread/INFO]: bat_m4n left the game
+[01:46:15] [Server thread/INFO]: JoaquinAsur issued server command: /homes
+[01:48:23] [User Authenticator #31/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[01:48:24] [Server thread/INFO]: bat_m4n joined the game
+[01:48:24] [Server thread/INFO]: bat_m4n[/127.2.133.184:35225] logged in with entity id 123019 at ([world]1792.0105035067565, 20.0, 1895.9618285594477)
