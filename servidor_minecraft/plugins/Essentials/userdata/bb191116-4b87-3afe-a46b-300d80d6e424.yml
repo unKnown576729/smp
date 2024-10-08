@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1728263668831
+  lastteleport: 1728353325274
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,9 +23,9 @@ last-account-name: Gohan5253
 lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -5.5
+  x: -6.5
   y: 80.0
-  z: 5.5
+  z: 10.5
   yaw: 0.0
   pitch: 0.0
 logoutlocation:

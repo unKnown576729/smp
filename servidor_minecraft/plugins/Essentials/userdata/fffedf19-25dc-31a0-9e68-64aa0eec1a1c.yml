@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1728353013880
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: JoaquinAsur
 lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -2092.968420331739
-  y: 65.57864060442151
-  z: -377.30000001192093
-  yaw: -65.88690185546875
-  pitch: 12.750030517578125
+  x: -2082.685634404891
+  y: 70.0
+  z: -392.8214791365837
+  yaw: 139.05001831054688
+  pitch: 22.35000228881836
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
