@@ -650,3 +650,10 @@
 [02:53:32] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
 [02:53:43] [Server thread/INFO]: Tomate71421 issued server command: /tpa s
 [02:53:44] [Server thread/INFO]: saritachoclo issued server command: /tpaccept Tomate71421
+[02:55:05] [Server thread/INFO]: Tomate71421 lost connection: Disconnected
+[02:55:05] [Server thread/INFO]: Tomate71421 left the game
+[02:56:44] [Server thread/INFO]: saritachoclo lost connection: Disconnected
+[02:56:44] [Server thread/INFO]: saritachoclo left the game
+[03:01:01] [Server thread/WARN]: CaramelLynx was kicked for floating too long!
+[03:01:01] [Server thread/INFO]: CaramelLynx lost connection: Flying is not enabled on this server
+[03:01:01] [Server thread/INFO]: CaramelLynx left the game
