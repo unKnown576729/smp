@@ -107,3 +107,5 @@
 [20:01:52] [User Authenticator #1/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
 [20:01:53] [Server thread/INFO]: bat_m4n joined the game
 [20:01:53] [Server thread/INFO]: bat_m4n[/127.61.246.170:54359] logged in with entity id 952 at ([world]1886.927203044011, -1.0, 1799.263901807172)
+[20:04:22] [Server thread/INFO]: bat_m4n was blown up by Creeper
+[20:04:27] [Server thread/INFO]: bat_m4n issued server command: /back
