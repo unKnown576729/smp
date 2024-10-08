@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1728351066339
+  lastteleport: 1728359142641
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1728353588462
-  login: 1728352104802
+  login: 1728358884195
 money: '0'
 last-account-name: bat_m4n
 logoutlocation:
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -352.5
-  y: 72.0
-  z: -409.5
-  yaw: -159.13131713867188
-  pitch: 19.616552352905273
+  x: 1805.5
+  y: 72.5625
+  z: 1744.5
+  yaw: -90.0
+  pitch: 0.0
