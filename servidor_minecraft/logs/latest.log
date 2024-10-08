@@ -171,3 +171,66 @@
 [00:36:22] [Async Chat Thread - #62/INFO]: [Not Secure] <bat_m4n> ayuda
 [00:36:25] [Server thread/INFO]: julsitan fell from a high place
 [00:36:31] [Server thread/INFO]: julsitan issued server command: /back
+[00:37:22] [Async Chat Thread - #64/INFO]: [Not Secure] <Sebitrucha> si averiguo quien fue el hijueputa malparido que me robo el diamante te juro que le puteo en la vida real
+[00:37:22] [Server thread/INFO]: RobertoJMX fell from a high place
+[00:37:26] [Server thread/INFO]: RobertoJMX issued server command: /back
+[00:37:46] [Async Chat Thread - #64/INFO]: [Not Secure] <bat_m4n> que mal
+[00:38:00] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
+[00:38:00] [Server thread/INFO]: RobertoJMX left the game
+[00:40:18] [Async Chat Thread - #66/INFO]: [Not Secure] <julsitan> ./skin set ___*
+[00:40:21] [Server thread/INFO]: bat_m4n fell from a high place
+[00:40:24] [Server thread/INFO]: bat_m4n issued server command: /Back
+[00:40:29] [Server thread/INFO]: bat_m4n issued server command: /back
+[00:40:30] [Server thread/INFO]: saritachoclo has made the advancement [Cover Me with Diamonds]
+[00:40:34] [Server thread/INFO]: Tomate71421 issued server command: /skins set
+[00:40:34] [Server thread/INFO]: Sebitrucha has made the advancement [Monster Hunter]
+[00:40:38] [Server thread/INFO]: saritachoclo was slain by bat_m4n
+[00:41:00] [Server thread/INFO]: Tomate71421 has made the advancement [Cover Me with Diamonds]
+[00:41:04] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:41:11] [User Authenticator #23/INFO]: UUID of player RobertoJMX is f8c70a10-bf50-35c9-99e2-8edc4a154e05
+[00:41:13] [Server thread/INFO]: RobertoJMX joined the game
+[00:41:13] [Server thread/INFO]: RobertoJMX[/127.59.50.42:47301] logged in with entity id 79605 at ([world]-552.6868528748836, -13.0, -295.621730058216)
+[00:41:24] [Server thread/INFO]: RobertoJMX issued server command: /home aldea
+[00:41:25] [Server thread/INFO]: Tomate71421 was slain by bat_m4n
+[00:41:30] [Server thread/INFO]: Tomate71421 issued server command: /back
+[00:41:41] [Server thread/INFO]: RobertoJMX issued server command: /tpa t
+[00:41:44] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept RobertoJMX
+[00:41:55] [Server thread/INFO]: julsitan issued server command: /home basealg
+[00:42:01] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:42:25] [Server thread/INFO]: Made bat_m4n a server operator
+[00:42:36] [Server thread/INFO]: bat_m4n issued server command: /difficulty hard
+[00:42:36] [Server thread/INFO]: [bat_m4n: The difficulty has been set to Hard]
+[00:42:40] [Server thread/INFO]: bat_m4n issued server command: /deop bat_m4n
+[00:42:40] [Server thread/INFO]: [bat_m4n: Made bat_m4n no longer a server operator]
+[00:42:47] [Server thread/INFO]: saritachoclo issued server command: /tpa r
+[00:43:18] [Server thread/INFO]: RobertoJMX issued server command: /tpa s
+[00:43:20] [Server thread/INFO]: saritachoclo issued server command: /back
+[00:43:24] [Server thread/INFO]: RobertoJMX issued server command: /tpa sar
+[00:43:37] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> quien fue el hijueputa
+[00:43:43] [Async Chat Thread - #68/INFO]: [Not Secure] <bat_m4n> no se tilin
+[00:43:43] [Async Chat Thread - #68/INFO]: [Not Secure] <RobertoJMX> q paso?
+[00:43:49] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> veras
+[00:43:54] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> estaba en una mina
+[00:43:59] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> encontre un diamante
+[00:43:59] [Server thread/INFO]: julsitan issued server command: /home basedevelda
+[00:44:03] [Server thread/INFO]: bat_m4n issued server command: /tpa robertojmx
+[00:44:04] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> me desconecto
+[00:44:08] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> vuelvo a entrar
+[00:44:09] [Async Chat Thread - #68/INFO]: [Not Secure] <bat_m4n> ./tpaccept
+[00:44:12] [Server thread/INFO]: bat_m4n was slain by Zombie
+[00:44:16] [Server thread/INFO]: bat_m4n issued server command: /back
+[00:44:17] [Server thread/INFO]: julsitan issued server command: /home basealg
+[00:44:18] [Async Chat Thread - #68/INFO]: [Not Secure] <Sebitrucha> y toda la puta mina ya esta vacia
+[00:45:10] [Server thread/INFO]: julsitan issued server command: /tpacancel
+[00:45:14] [Async Chat Thread - #69/INFO]: [Not Secure] <julsitan> ./tpacancel
+[00:45:17] [Server thread/INFO]: RobertoJMX issued server command: /tpaaccept
+[00:45:25] [Server thread/INFO]: RobertoJMX issued server command: /tpaaccept b
+[00:45:25] [Server thread/INFO]: bat_m4n lost connection: Disconnected
+[00:45:25] [Server thread/INFO]: bat_m4n left the game
+[00:45:27] [User Authenticator #24/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[00:45:28] [Server thread/INFO]: bat_m4n joined the game
+[00:45:28] [Server thread/INFO]: bat_m4n[/127.2.133.184:40193] logged in with entity id 81534 at ([world]-586.0811139182739, -11.0, -315.9956563671851)
+[00:45:31] [Server thread/INFO]: bat_m4n issued server command: /tpa j
+[00:45:33] [Server thread/INFO]: julsitan issued server command: /tpaccept bat_m4n
+[00:45:34] [Server thread/INFO]: julsitan issued server command: /tpaccept bat_m4n
+[00:46:46] [Server thread/INFO]: julsitan issued server command: /home aldea2
