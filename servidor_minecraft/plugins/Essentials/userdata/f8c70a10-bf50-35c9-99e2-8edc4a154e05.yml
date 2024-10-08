@@ -11,12 +11,12 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1728347846976
+  lastteleport: 1728348558068
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728347880058
+  logout: 1728348950363
   login: 1728348073602
 money: '0'
 last-account-name: RobertoJMX
@@ -24,15 +24,15 @@ lastlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
   x: 1803.5
-  y: 72.125
-  z: 1743.078724048497
-  yaw: -42.9000129699707
-  pitch: 12.75
+  y: 72.0
+  z: 1744.5
+  yaw: -90.0
+  pitch: 0.0
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: -552.6868528748836
-  y: -13.0
-  z: -295.621730058216
-  yaw: -173.56292724609375
-  pitch: 17.700029373168945
+  x: 6.016830728110702
+  y: 71.0
+  z: -27.845720222915467
+  yaw: 91.65011596679688
+  pitch: 11.400004386901855

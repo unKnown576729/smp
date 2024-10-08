@@ -236,3 +236,121 @@
 [00:46:46] [Server thread/INFO]: julsitan issued server command: /home aldea2
 [00:46:57] [Server thread/INFO]: julsitan issued server command: /home aldea
 [00:47:11] [Server thread/INFO]: julsitan issued server command: /home aldea2
+[00:47:20] [Async Chat Thread - #70/INFO]: [Not Secure] <bat_m4n> tptptpptpt
+[00:47:32] [Server thread/INFO]: julsitan issued server command: /tpa b
+[00:47:34] [Server thread/INFO]: bat_m4n issued server command: /tpaccept julsitan
+[00:47:46] [Server thread/INFO]: julsitan issued server command: /tpa b
+[00:47:47] [Server thread/INFO]: Tomate71421 issued server command: /tpa b
+[00:47:48] [Server thread/INFO]: bat_m4n issued server command: /tpaccept Tomate71421
+[00:47:50] [Server thread/INFO]: bat_m4n issued server command: /tpaccept julsitan
+[00:48:31] [Server thread/INFO]: Sebitrucha has made the advancement [Acquire Hardware]
+[00:48:43] [Server thread/INFO]: Sebitrucha was slain by Zombie
+[00:48:51] [Server thread/INFO]: Tomate71421 was slain by Vindicator
+[00:48:53] [Server thread/INFO]: Villager Villager['Leatherworker'/73229, uuid='f7099f6d-1055-4ed7-980b-f631a85e03fd', l='ServerLevel[world]', x=-346.15, y=63.94, z=-356.07, cpos=[-22, -23], tl=30048, v=true] died, message: 'Leatherworker was slain by Vindicator'
+[00:48:53] [Async Chat Thread - #72/INFO]: [Not Secure] <Sebitrucha> juego de mierda
+[00:48:55] [Server thread/INFO]: Tomate71421 issued server command: /back
+[00:48:58] [Server thread/INFO]: julsitan was slain by Vindicator
+[00:49:03] [Server thread/INFO]: RobertoJMX was slain by Vindicator
+[00:49:04] [Server thread/INFO]: julsitan issued server command: /back
+[00:49:06] [Async Chat Thread - #73/INFO]: [Not Secure] <Sebitrucha> hay /back?
+[00:49:06] [Server thread/INFO]: Villager Villager['Villager'/73227, uuid='1a392a00-85c7-4ead-8783-7696748704c3', l='ServerLevel[world]', x=-337.91, y=65.00, z=-338.00, cpos=[-22, -22], tl=26079, v=true] died, message: 'Villager was slain by Vindicator'
+[00:49:06] [Server thread/INFO]: RobertoJMX issued server command: /back
+[00:49:07] [Server thread/INFO]: julsitan was slain by Vindicator
+[00:49:08] [Server thread/INFO]: RobertoJMX was slain by Vindicator
+[00:49:09] [Async Chat Thread - #73/INFO]: [Not Secure] <bat_m4n> si
+[00:49:09] [Server thread/INFO]: Sebitrucha lost connection: Timed out
+[00:49:09] [Server thread/INFO]: Sebitrucha left the game
+[00:49:10] [Server thread/INFO]: julsitan issued server command: /back
+[00:49:12] [Server thread/INFO]: RobertoJMX issued server command: /back
+[00:49:14] [Server thread/INFO]: julsitan was slain by Vindicator
+[00:49:14] [Server thread/INFO]: RobertoJMX was slain by Vindicator
+[00:49:17] [Server thread/INFO]: julsitan issued server command: /back
+[00:49:18] [Server thread/INFO]: RobertoJMX issued server command: /back
+[00:49:19] [User Authenticator #25/INFO]: UUID of player Sebitrucha is 19f657d0-8d59-3ec9-8c2e-e98b7ca4873c
+[00:49:21] [Server thread/INFO]: Sebitrucha joined the game
+[00:49:21] [Server thread/INFO]: Sebitrucha[/127.251.5.193:35779] logged in with entity id 84254 at ([world]-2.4530305329702307, 80.0, 0.4813535465200597)
+[00:49:22] [Server thread/INFO]: julsitan was slain by Vindicator
+[00:49:26] [Server thread/INFO]: julsitan issued server command: /back
+[00:49:29] [Server thread/INFO]: bat_m4n was slain by Vindicator
+[00:49:32] [Server thread/INFO]: saritachoclo was shot by Pillager
+[00:49:32] [Server thread/INFO]: bat_m4n issued server command: /Back
+[00:49:34] [Server thread/INFO]: julsitan was slain by Vindicator
+[00:49:35] [Server thread/INFO]: bat_m4n issued server command: /back
+[00:49:37] [Server thread/INFO]: julsitan issued server command: /back}
+[00:49:39] [Server thread/INFO]: julsitan issued server command: /back
+[00:49:47] [Server thread/INFO]: julsitan has made the advancement [Voluntary Exile]
+[00:50:15] [Server thread/INFO]: saritachoclo was slain by Sebitrucha
+[00:50:22] [Async Chat Thread - #74/INFO]: [Not Secure] <Sebitrucha> jejeje
+[00:50:30] [Server thread/INFO]: Villager Villager['Villager'/73231, uuid='f3c5ae47-5056-4394-ad82-2248895baf4f', l='ServerLevel[world]', x=-348.59, y=70.94, z=-416.51, cpos=[-22, -27], tl=30260, v=true] died, message: 'Villager was shot by Pillager'
+[00:50:30] [Server thread/INFO]: RobertoJMX issued server command: /tpa sar
+[00:50:31] [Async Chat Thread - #74/INFO]: [Not Secure] <bat_m4n> machismo
+[00:50:35] [User Authenticator #26/INFO]: UUID of player CaramelLynx is 53e4c26e-50e4-39b7-9fbe-bb665368e70a
+[00:50:37] [Server thread/INFO]: CaramelLynx joined the game
+[00:50:37] [Server thread/INFO]: CaramelLynx[/127.217.110.12:43945] logged in with entity id 84942 at ([world]1819.3658982871748, 69.9375, 1736.1754166924634)
+[00:50:38] [Server thread/INFO]: saritachoclo issued server command: /tpaccept RobertoJMX
+[00:50:39] [Server thread/INFO]: saritachoclo issued server command: /tpaccept RobertoJMX
+[00:50:39] [Server thread/INFO]: saritachoclo issued server command: /tpaccept RobertoJMX
+[00:50:42] [Server thread/INFO]: saritachoclo issued server command: /tpaccept RobertoJMX
+[00:50:43] [Async Chat Thread - #74/INFO]: [Not Secure] <CaramelLynx> ahyyyyyyyyyy
+[00:50:44] [Async Chat Thread - #74/INFO]: [Not Secure] <Sebitrucha> chau desgraciados
+[00:50:47] [Server thread/INFO]: Sebitrucha lost connection: Disconnected
+[00:50:47] [Server thread/INFO]: Sebitrucha left the game
+[00:51:01] [Server thread/INFO]: julsitan was slain by Vindicator
+[00:51:03] [Server thread/INFO]: saritachoclo issued server command: /back
+[00:51:04] [Server thread/INFO]: julsitan issued server command: /back
+[00:51:16] [Server thread/INFO]: saritachoclo issued server command: /tpa r
+[00:51:19] [Server thread/INFO]: julsitan was shot by Pillager
+[00:51:23] [Server thread/INFO]: julsitan issued server command: /back
+[00:51:26] [Server thread/INFO]: RobertoJMX issued server command: /tpa sar
+[00:51:30] [Server thread/INFO]: saritachoclo issued server command: /tpaccept RobertoJMX
+[00:51:40] [Server thread/INFO]: Tomate71421 was slain by Zombie
+[00:51:46] [Server thread/INFO]: Tomate71421 issued server command: /back
+[00:51:55] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:52:09] [Server thread/INFO]: julsitan was slain by Ravager
+[00:52:12] [Server thread/INFO]: julsitan issued server command: /back
+[00:52:16] [Server thread/INFO]: julsitan was slain by Ravager
+[00:52:19] [Server thread/INFO]: julsitan issued server command: /back
+[00:52:48] [Server thread/INFO]: julsitan was slain by Zombie
+[00:52:48] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:52:51] [Server thread/INFO]: julsitan issued server command: /back
+[00:53:21] [Server thread/INFO]: Villager Villager['Leatherworker'/73230, uuid='f9e08d5d-df1e-4deb-9343-5f22ccd70034', l='ServerLevel[world]', x=-305.14, y=68.00, z=-356.98, cpos=[-20, -23], tl=36357, v=true] died, message: 'Leatherworker was slain by julsitan'
+[00:53:45] [Server thread/INFO]: saritachoclo lost connection: Disconnected
+[00:53:45] [Server thread/INFO]: saritachoclo left the game
+[00:53:50] [User Authenticator #27/INFO]: UUID of player saritachoclo is 6d853ca1-8923-3036-8ebf-f0901cb3401c
+[00:53:51] [Server thread/INFO]: saritachoclo joined the game
+[00:53:51] [Server thread/INFO]: saritachoclo[/127.166.4.172:54457] logged in with entity id 86368 at ([world]4.690864047204489, 71.0, -25.472280641928513)
+[00:54:22] [Server thread/INFO]: saritachoclo issued server command: /tpa t
+[00:54:26] [Server thread/INFO]: Tomate71421 issued server command: /tpaccept saritachoclo
+[00:54:36] [Server thread/INFO]: Tomate71421 was shot by Skeleton
+[00:54:41] [Server thread/INFO]: Tomate71421 issued server command: /back
+[00:54:42] [Server thread/INFO]: julsitan was shot by Skeleton
+[00:54:43] [Server thread/INFO]: bat_m4n was blown up by Creeper
+[00:54:44] [Server thread/INFO]: julsitan issued server command: /back
+[00:54:47] [Server thread/INFO]: bat_m4n issued server command: /back
+[00:54:48] [Server thread/INFO]: Tomate71421 was shot by Skeleton
+[00:54:52] [Server thread/INFO]: julsitan was shot by Skeleton
+[00:54:52] [Server thread/INFO]: saritachoclo has made the advancement [Sweet Dreams]
+[00:54:55] [Server thread/INFO]: Tomate71421 issued server command: /back
+[00:54:55] [Server thread/INFO]: julsitan issued server command: /back
+[00:55:02] [Server thread/INFO]: Tomate71421 was shot by Pillager
+[00:55:03] [Server thread/INFO]: julsitan was slain by Skeleton
+[00:55:05] [Server thread/INFO]: Villager Villager['Villager'/73530, uuid='0a45dea3-0374-491e-9ad5-6e3b20d1e21f', l='ServerLevel[world]', x=-351.54, y=64.00, z=-383.55, cpos=[-22, -24], tl=47388, v=true] died, message: 'Villager was shot by Pillager'
+[00:55:06] [Server thread/INFO]: julsitan issued server command: /back
+[00:55:09] [Server thread/INFO]: Tomate71421 issued server command: /back
+[00:55:14] [Server thread/INFO]: julsitan was slain by Skeleton
+[00:55:19] [Server thread/INFO]: julsitan issued server command: /back
+[00:55:25] [Server thread/INFO]: julsitan was slain by Skeleton
+[00:55:25] [Server thread/INFO]: CaramelLynx has made the advancement [Sweet Dreams]
+[00:55:29] [Server thread/INFO]: julsitan issued server command: /back
+[00:55:35] [Server thread/INFO]: julsitan was slain by Skeleton
+[00:55:38] [Server thread/INFO]: julsitan issued server command: /back
+[00:55:39] [Async Chat Thread - #76/INFO]: [Not Secure] <CaramelLynx> cae
+[00:55:40] [Server thread/INFO]: bat_m4n was shot by Pillager
+[00:55:42] [Server thread/INFO]: julsitan was slain by Skeleton
+[00:55:43] [Server thread/INFO]: bat_m4n issued server command: /back
+[00:55:44] [Async Chat Thread - #76/INFO]: [Not Secure] <CaramelLynx> .-.
+[00:55:45] [Server thread/INFO]: julsitan issued server command: /back
+[00:55:50] [Server thread/INFO]: RobertoJMX lost connection: Disconnected
+[00:55:50] [Server thread/INFO]: RobertoJMX left the game
+[00:56:49] [Server thread/INFO]: Tomate71421 was blown up by Creeper
+[00:56:54] [Server thread/INFO]: Tomate71421 issued server command: /back
