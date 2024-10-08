@@ -551,3 +551,6 @@
 [01:48:23] [User Authenticator #31/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
 [01:48:24] [Server thread/INFO]: bat_m4n joined the game
 [01:48:24] [Server thread/INFO]: bat_m4n[/127.2.133.184:35225] logged in with entity id 123019 at ([world]1792.0105035067565, 20.0, 1895.9618285594477)
+[01:49:57] [Server thread/INFO]: bat_m4n issued server command: /sethome cueva
+[01:50:03] [Server thread/INFO]: bat_m4n issued server command: /home a
+[01:50:06] [Server thread/INFO]: bat_m4n issued server command: /home aldea
