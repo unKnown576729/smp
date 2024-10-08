@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728348647924
+  logout: 1728425555935
   login: 1728418810682
 money: '0'
 last-account-name: Sebitrucha
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: 20.883164690681106
-  y: 68.0
-  z: -11.405121906380904
-  yaw: 97.3502197265625
-  pitch: 14.400031089782715
+  x: 1916.4589994091084
+  y: 64.0
+  z: 1803.4982488403286
+  yaw: 5.645721435546875
+  pitch: 19.350008010864258
