@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728264655702
+  logout: 1728353481059
   login: 1728351742856
 money: '0'
 last-account-name: Gohan5253
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: 1808.2727844927165
-  y: 72.0
-  z: 1741.2071256021159
-  yaw: -16.361207962036133
-  pitch: 21.14995765686035
+  x: 2593.016219855576
+  y: -36.0
+  z: 3051.8670316116263
+  yaw: -100.84490966796875
+  pitch: 25.799924850463867
