@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1728338274659
+  logout: 1728349554063
   login: 1728348637152
 money: '0'
 last-account-name: CaramelLynx
 logoutlocation:
   world: ab2be998-d7e9-4b57-8e77-19bbbee6b912
   world-name: world
-  x: 1819.3658982871748
-  y: 69.9375
-  z: 1736.1754166924634
-  yaw: -9.54132080078125
-  pitch: 3.600013017654419
+  x: 1812.449165350695
+  y: 72.0
+  z: 1746.9181259195875
+  yaw: -91.65918731689453
+  pitch: 20.549884796142578
