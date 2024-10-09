@@ -1,10 +1,138 @@
-[00:02:27] [Server thread/INFO]: bat_m4n issued server command: /home XP
-[00:05:24] [Server thread/INFO]: bat_m4n issued server command: /home aldea
-[00:06:02] [Server thread/INFO]: bat_m4n lost connection: Disconnected
-[00:06:02] [Server thread/INFO]: bat_m4n left the game
-[00:43:42] [User Authenticator #9/INFO]: UUID of player Tomate71421 is 7bd89180-6e5e-3f82-b7ae-5eacd4b0a506
-[00:43:44] [Server thread/INFO]: Tomate71421 joined the game
-[00:43:44] [Server thread/INFO]: Tomate71421[/127.134.117.38:34909] logged in with entity id 77604 at ([world]538.2003973536083, 11.0, -452.58475145410597)
-[00:59:03] [Server thread/INFO]: Tomate71421 has made the advancement [The Cutest Predator]
-[01:01:14] [Server thread/INFO]: Tomate71421 lost connection: Disconnected
-[01:01:14] [Server thread/INFO]: Tomate71421 left the game
+[02:44:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[02:44:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) for Minecraft 1.21.1
+[02:44:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:44:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[02:44:11] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - ClickTpa (1.7.4), ConditionalEvents (4.57.3), Essentials (2.21.0-dev+111-b54c8c1), LuckPerms (5.4.141), SkinsRestorer (15.4.3), UltraSetHome (1.7.9)
+[02:44:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:44:17] [ServerMain/INFO]: Loaded 1290 recipes
+[02:44:18] [ServerMain/INFO]: Loaded 1399 advancements
+[02:44:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:44:18] [Server thread/INFO]: Loading properties
+[02:44:18] [Server thread/INFO]: This server is running Paper version 1.21.1-119-master@7cd4f2c (2024-10-03T15:19:34Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:44:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:44:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:44:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:44:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:44:20] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:20] [Server thread/INFO]: Generating keypair
+[02:44:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:20] [Server thread/INFO]: Using epoll channel type
+[02:44:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:44:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:44:21] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:44:32] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.4 does not specify an api-version.
+[02:44:32] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.141
+[02:44:32] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[02:44:32] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.57.3
+[02:44:32] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+111-b54c8c1
+[02:44:32] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[02:44:32] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.4
+[02:44:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:44:32] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.141
+[02:44:32] [Server thread/INFO]:         __    
+[02:44:32] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.141
+[02:44:32] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:44:32] [Server thread/INFO]: 
+[02:44:32] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:44:33] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:44:33] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:44:33] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:44:34] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1478ms)
+[02:44:34] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[02:44:35] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:44:36] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[02:44:37] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:44:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:44:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:44:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:44:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:44:37] [Server thread/INFO]: Preparing level "world"
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:44:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:44:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:39] [Server thread/INFO]: Time elapsed: 1217 ms
+[02:44:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:44:40] [Server thread/INFO]: Time elapsed: 286 ms
+[02:44:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:44:40] [Server thread/INFO]: Time elapsed: 150 ms
+[02:44:40] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[02:44:41] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.57.3
+[02:44:41] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.57.3
+[02:44:41] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02:44:42] [Server thread/INFO]: There is a new version available. (4.57.4)
+[02:44:42] [Server thread/INFO]: You can download it at: https://modrinth.com/plugin/conditionalevents
+[02:44:42] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+111-b54c8c1
+[02:44:43] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:44:43] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:44:43] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[02:44:43] [Server thread/INFO]: [Essentials] Using locale en
+[02:44:43] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:44:44] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:44:44] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[02:44:44] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[02:44:44] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[02:44:44] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[02:44:44] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.4*
+[02:44:44] [Server thread/INFO]: [ClickTpa] ClickTPA has been loaded Successfully!
+[02:44:44] [Server thread/INFO]: [spark] Starting background profiler...
+[02:44:45] [Server thread/INFO]: Done preparing level "world" (7.366s)
+[02:44:45] [Server thread/INFO]: Running delayed init tasks
+[02:44:45] [Server thread/INFO]: Done (36.725s)! For help, type "help"
+[02:44:45] [Server thread/INFO]: Timings Reset
+[02:44:45] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:44:45] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[02:44:45] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
+[02:44:45] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[02:44:51] [User Authenticator #0/INFO]: UUID of player CaramelLynx is 53e4c26e-50e4-39b7-9fbe-bb665368e70a
+[02:44:53] [Server thread/INFO]: CaramelLynx joined the game
+[02:44:53] [Server thread/INFO]: CaramelLynx[/127.241.132.77:60491] logged in with entity id 78 at ([world]1814.1894470357747, 73.0, 1746.3751976787335)
+[02:46:19] [User Authenticator #1/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[02:46:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@45714bd[id=bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb,name=bat_m4n,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTcyODQ0MTk3OTQ2OCwKICAicHJvZmlsZUlkIiA6ICJiNDVmODdkY2M5N2Q0ZjM1OTAwMjU0NDY4ZmFlM2RmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYXRfbTRuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY0YTk2YzhlY2Q5OTYyNDM2MTYxMmYzYzZmMzgzMjNiYzkyYzk5NTg2MDEzZDllZmE2ZDQ5NGUwYjNmMzIzOTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmQ1NTNiMzkzNThhMjRlZGZlM2I4YTlhOTM5ZmE1ZmE0ZmFhNGQ5YTljM2Q2YWY4ZWFmYjM3N2ZhMDVjMmJiIgogICAgfQogIH0KfQ==, signature=Ee0U7K5RDQa2IGCHj8bN54YzPHMEGzr0PhEkNBCG+WZfG2Ui66FzxsfjzWshLiAAxnKtDURsqStiizRl6ujY64WBUYHZLiGCDecB3D4haup7HCtNZFdfO6e2DFTI0zV7mfkLZajeWqq0TZf6mdRslojZVIiJsN4O0vAwBdXzC+8X/ryfstRhyGu/u41yy3OBTCwKEo+NEePTyIRnE55hMulfV6kjZ3lyv2B8rPgyBAyAlJ5gK2ulYgXFz13sCVVAB/GXhlovirmLNfiq13+Zj1IkY7/bN2Haw2eIhR0h48/2F156qkWEB8UiYBjamw9fZFdusiNXV47bshMWbsSmWlS7Vr8eHcpaemfODdb04sz0SaU8qcbIQpCHV5Ni6vcK+UNr3XtLHlamGpUsVR7BLSgw4bJppC+gxQPTpMu8SFGAD8xc8zN0FOTF3TiHcJe8IHy/coBRUh4V/8JpN/QHioar/rfwSdXfWLrdVXQ9qGZtVmsS8Yn7Io5bHwkUe86zmxwH5LzhDjBYgsbObcf9fAYS7H9aUJpk+hZu4a5jIdylSPQi312x1XWlqOdzNediMCkyUZc8QG8aVtBraSJYk6eAXhfRH0SOsX8q798kIBTpwE/MuoZRsKuCtZQmEGJWMKb4EWUqgXHNMnEhxjxoPYEwedCjsCns5tmOOC1q0zA=]]}] lost connection: Disconnected
+[02:46:24] [User Authenticator #1/INFO]: UUID of player bat_m4n is bb7c8c14-8bc8-3e25-ae73-b4f2f0b73ceb
+[02:46:26] [Server thread/INFO]: bat_m4n joined the game
+[02:46:26] [Server thread/INFO]: bat_m4n[/127.61.246.170:52211] logged in with entity id 461 at ([world]1799.470707214808, 71.0, 1727.8093097862134)
+[02:47:28] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> hagamos un palacio
+[02:47:39] [Async Chat Thread - #0/INFO]: [Not Secure] <CaramelLynx> pa q
+[02:47:44] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> presumir
+[02:47:55] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> xd
+[02:48:07] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> aver sabes construir
+[02:48:13] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> no
+[02:48:17] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> xd
+[02:48:18] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> para eso existe youtube
+[02:48:22] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> no mentira
+[02:48:27] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> primero full netherite
+[02:48:35] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> yo se contruir pero solo se de casas rusticas :/
+[02:49:14] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> xd
+[02:49:16] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> tranqui
+[02:49:30] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> cae me das 3 diamantes
+[02:49:34] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> agarra
+[02:49:37] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> ya
+[02:50:00] [Server thread/INFO]: CaramelLynx has made the advancement [Diamonds!]
+[02:50:08] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> xd
+[02:50:53] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> oye necesitamos al cartogafo?
+[02:50:57] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> si
+[02:50:59] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> mansion
+[02:51:00] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> vrg
+[02:51:06] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> q paso
+[02:51:28] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> ote cae ven
+[02:51:47] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> q
+[02:51:55] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> y este aldeano no tiene nada:/
+[02:51:58] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> es para librerias
+[02:52:06] [Async Chat Thread - #1/INFO]: [Not Secure] <bat_m4n> para lvl 30
+[02:52:15] [Async Chat Thread - #1/INFO]: [Not Secure] <CaramelLynx> necesito eficiencia 4 mija:/
+[02:52:19] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> dale
+[02:52:49] [Server thread/INFO]: CaramelLynx has made the advancement [Enchanter]
+[02:52:57] [Async Chat Thread - #0/INFO]: [Not Secure] <CaramelLynx> que vrg
+[02:53:05] [Async Chat Thread - #0/INFO]: [Not Secure] <bat_m4n> por eso el lvl 30
