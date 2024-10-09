@@ -109,3 +109,5 @@
 [15:31:22] [Server thread/INFO]: bat_m4n[/127.133.63.82:38867] logged in with entity id 4750 at ([world]1792.5949887405163, 71.0, 1738.9205745978293)
 [15:36:53] [Server thread/INFO]: bat_m4n has made the advancement [Enchanter]
 [15:41:46] [Server thread/INFO]: bat_m4n has made the advancement [Surge Protector]
+[15:47:07] [Server thread/INFO]: Villager Villager['Farmer'/4761, uuid='56d766ac-05c6-482c-ae14-2283e637cb9c', l='ServerLevel[world]', x=1813.05, y=71.19, z=1764.27, cpos=[113, 110], tl=251042, v=true] died, message: 'Farmer was slain by Zombie'
+[15:52:15] [Server thread/INFO]: Villager Villager['Librarian'/4785, uuid='34adcc3c-fa01-4f29-8217-7ba20de51dc7', l='ServerLevel[world]', x=1790.32, y=71.00, z=1750.70, cpos=[111, 109], tl=1191913, v=true] died, message: 'Librarian was slain by Zombie'
