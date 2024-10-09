@@ -121,3 +121,12 @@
 [16:06:21] [Server thread/INFO]: bat_m4n issued server command: /homes
 [16:06:21] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [16:07:01] [Server thread/INFO]: bat_m4n issued server command: /home nether
+[16:10:30] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[16:12:14] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[16:12:50] [Server thread/INFO]: bat_m4n issued server command: /home xp
+[16:12:52] [Server thread/INFO]: bat_m4n issued server command: /home XP
+[16:14:23] [Server thread/INFO]: bat_m4n issued server command: /sethome a
+[16:14:25] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[16:14:31] [Server thread/INFO]: bat_m4n issued server command: /home a
+[16:14:59] [Server thread/INFO]: bat_m4n issued server command: /home aldea
+[16:15:10] [Server thread/INFO]: bat_m4n issued server command: /home a
